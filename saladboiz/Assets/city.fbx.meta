@@ -1,0 +1,2402 @@
+fileFormatVersion: 2
+guid: c74549218f25c7242904520bf6ba0b6b
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: AC_Units
+    100002: ads_geo
+    100004: aiSkyDomeLight1
+    100006: apt_building_geo
+    100008: apt_building_geo1
+    100010: apt_windows
+    100012: b1_frontdoor_geo
+    100014: backseat_geo
+    100016: backseat_geo 1
+    100018: backseat_geo 2
+    100020: base_sidewalk
+    100022: base_sidewalk1
+    100024: base_sidewalk2
+    100026: base_sidewalk3
+    100028: base_sidewalk4
+    100030: base_sidewalk5
+    100032: base_sidewalk6
+    100034: base_sidewalk7
+    100036: base_sidewalk8
+    100038: blocks_geo_grp
+    100040: bodega_awning
+    100042: bodega_door
+    100044: bodega_exhaust
+    100046: bodega_geo_grp
+    100048: bodega_windows
+    100050: brocklee_car:backseat_geo
+    100052: brocklee_car:bumper_geo
+    100054: brocklee_car:car_ctrl
+    100056: brocklee_car:car_geo_buffergrp
+    100058: brocklee_car:car_geo_grp
+    100060: brocklee_car:chars_all:LINEUP
+    100062: brocklee_car:chars_all:pCube4
+    100064: brocklee_car:chars_all:pCube5
+    100066: brocklee_car:chars_all:pCube6
+    100068: brocklee_car:chars_all:pCube7
+    100070: brocklee_car:dashboard_geo
+    100072: brocklee_car:front_seat_geo
+    100074: brocklee_car:group1
+    100076: brocklee_car:group1 1
+    100078: brocklee_car:group2
+    100080: brocklee_car:group2 1
+    100082: brocklee_car:headlights_geo
+    100084: brocklee_car:left_wheels_geo_grp
+    100086: brocklee_car:mahjong_geo
+    100088: brocklee_car:main_body_geo
+    100090: brocklee_car:mirrors_geo
+    100092: brocklee_car:pCube8
+    100094: brocklee_car:right_wheels_geo_grp
+    100096: brocklee_car:steering_wheel_geo
+    100098: brocklee_car:taillights_geo
+    100100: brocklee_car:wheel_geo
+    100102: brocklee_car:wheel_geo 1
+    100104: brocklee_car:wheel_geo1
+    100106: brocklee_car:wheel_geo1 1
+    100108: buildings
+    100110: bumper_geo
+    100112: bumper_geo 1
+    100114: bumper_geo 2
+    100116: car_ctrl
+    100118: car_ctrl1
+    100120: car_ctrl2
+    100122: car_geo_buffergrp
+    100124: car_geo_buffergrp 1
+    100126: car_geo_buffergrp 2
+    100128: car_geo_grp
+    100130: car_geo_grp 1
+    100132: car_geo_grp 2
+    100134: //RootNode
+    100136: crosswalk_geo9
+    100138: crosswalk_geo_grp
+    100140: CTRL
+    100142: CTRL1
+    100144: CTRL2
+    100146: dashboard_geo
+    100148: dashboard_geo 1
+    100150: dashboard_geo 2
+    100152: dirt_geo
+    100154: dirt_geo 1
+    100156: dirt_geo 2
+    100158: dish2_geo
+    100160: dish_geo
+    100162: dish_geo_grp
+    100164: fire_escape_2
+    100166: fire_escape_geo_grp
+    100168: fountain_geo:fountain_geo
+    100170: fountain_geo:polySurface1
+    100172: fountain_geo:polySurface2
+    100174: fountain_geo:polySurface3
+    100176: fountain_geo:sculpture_ftn_topper_geo
+    100178: front_seat_geo
+    100180: front_seat_geo 1
+    100182: front_seat_geo 2
+    100184: grassbits_geo
+    100186: grassbits_geo 1
+    100188: grassbits_geo 2
+    100190: group1
+    100192: group1 1
+    100194: group1 2
+    100196: group1 3
+    100198: group1 4
+    100200: group1 5
+    100202: group10
+    100204: group11
+    100206: group12
+    100208: group15
+    100210: group16
+    100212: group17
+    100214: group18
+    100216: group19
+    100218: group2
+    100220: group2 1
+    100222: group2 2
+    100224: group2 3
+    100226: group2 4
+    100228: group2 5
+    100230: group20
+    100232: group21
+    100234: group22
+    100236: group23
+    100238: group24
+    100240: group25
+    100242: group26
+    100244: group27
+    100246: group28
+    100248: group29
+    100250: group30
+    100252: group31
+    100254: group32
+    100256: group33
+    100258: group34
+    100260: group35
+    100262: group36
+    100264: group57
+    100266: group58
+    100268: group59
+    100270: group60
+    100272: group61
+    100274: group62
+    100276: group63
+    100278: group64
+    100280: group65
+    100282: group66
+    100284: group67
+    100286: group68
+    100288: group8
+    100290: headlights_geo
+    100292: headlights_geo 1
+    100294: headlights_geo 2
+    100296: hotdogstand:awning_geo
+    100298: hotdogstand:big_wheels_geo
+    100300: hotdogstand:bottle_asset:pCylinder2
+    100302: hotdogstand:can_asset:pCylinder1
+    100304: hotdogstand:cart_geo
+    100306: hotdogstand:chair_geo
+    100308: hotdogstand:crate_geo
+    100310: hotdogstand:drinks_geo_grp
+    100312: hotdogstand:foodcart_umbrella1:awning_geo
+    100314: hotdogstand:foodcart_umbrella1:umbrella_geo
+    100316: hotdogstand:ketchup_geo
+    100318: hotdogstand:mustard_geo
+    100320: hotdogstand:pages_grp
+    100322: hotdogstand:pCube16
+    100324: hotdogstand:pCube17
+    100326: hotdogstand:pCube18
+    100328: hotdogstand:pCube2
+    100330: hotdogstand:pCube3
+    100332: hotdogstand:pCylinder1
+    100334: hotdogstand:pCylinder1 1
+    100336: hotdogstand:pCylinder2
+    100338: hotdogstand:pCylinder2 1
+    100340: hotdogstand:pCylinder2 2
+    100342: hotdogstand:pCylinder4
+    100344: hotdogstand:pCylinder9
+    100346: hotdogstand:pPlane1
+    100348: hotdogstand:pPlane2
+    100350: hotdogstand:pPlane3
+    100352: hotdogstand:pPlane4
+    100354: hotdogstand:pretzels_geo_grp
+    100356: hotdogstand:sm_wheels_geo
+    100358: hotdogstand:umbrella_geo
+    100360: ice_box_geo
+    100362: icee_cart_:cart_body_geo
+    100364: icee_cart_:cart_pocket_geo
+    100366: icee_cart_:cherry_cover_geo
+    100368: icee_cart_:cherry_geo
+    100370: icee_cart_:cherry_geo_grp
+    100372: icee_cart_:coco_cover_geo
+    100374: icee_cart_:coco_geo
+    100376: icee_cart_:coco_geo_grp
+    100378: icee_cart_:foodcart_umbrella:awning_geo
+    100380: icee_cart_:foodcart_umbrella:umbrella_geo
+    100382: icee_cart_:handles_geo
+    100384: icee_cart_:hinge_geo
+    100386: icee_cart_:hinge_geo1
+    100388: icee_cart_:hinge_geo2
+    100390: icee_cart_:lid_geo
+    100392: icee_cart_:lid_geo 1
+    100394: icee_cart_:lid_geo 2
+    100396: icee_cart_:lid_geo 3
+    100398: icee_cart_:mango_cover_geo2
+    100400: icee_cart_:mango_geo
+    100402: icee_cart_:mango_geo_grp
+    100404: icee_cart_:rainbow_cover_geo
+    100406: icee_cart_:rainbow_geo
+    100408: icee_cart_:rainbow_geo_grp
+    100410: icee_cart_:stool_geo
+    100412: icee_cart_:wheel_asset:hinge_geo
+    100414: icee_cart_:wheel_asset:wheel_geo
+    100416: icee_cart_:wheel_geo
+    100418: icee_cart_:wheel_geo 1
+    100420: icee_cart_:wheel_geo 2
+    100422: icee_cart_:wheels_geo_grp
+    100424: innerwindoes
+    100426: left_wheels_geo_grp
+    100428: left_wheels_geo_grp 1
+    100430: left_wheels_geo_grp 2
+    100432: line_grp
+    100434: mahjong_geo
+    100436: mahjong_geo 1
+    100438: mahjong_geo 2
+    100440: main_body_geo
+    100442: main_body_geo 1
+    100444: main_body_geo 2
+    100446: mirrors_geo
+    100448: mirrors_geo 1
+    100450: mirrors_geo 2
+    100452: outer_windows
+    100454: pCube128
+    100456: pCube130
+    100458: pCube131
+    100460: pCube132
+    100462: pCube133
+    100464: pCube141
+    100466: pCube142
+    100468: pCube146
+    100470: pCube147
+    100472: pCube148
+    100474: pCube149
+    100476: pCube150
+    100478: pCube151
+    100480: pCube152
+    100482: pCube153
+    100484: pCube154
+    100486: pCube155
+    100488: pCube156
+    100490: pCube157
+    100492: pCube158
+    100494: pCube159
+    100496: pCube160
+    100498: pCube161
+    100500: pCube162
+    100502: pCube163
+    100504: pCube164
+    100506: pCube165
+    100508: pCube166
+    100510: pCube167
+    100512: pCube168
+    100514: pCube170
+    100516: pCube171
+    100518: pCube172
+    100520: pCube173
+    100522: pCube174
+    100524: pCube2
+    100526: pCube3
+    100528: pCube4
+    100530: pCube5
+    100532: pCube64
+    100534: pCube67
+    100536: pCube68
+    100538: pCube72
+    100540: pCube73
+    100542: pCube74
+    100544: pCube75
+    100546: pCube76
+    100548: pCube8
+    100550: pCube8 1
+    100552: pCube8 2
+    100554: pCube85
+    100556: persp1
+    100558: polySurface1
+    100560: polySurface11
+    100562: polySurface12
+    100564: polySurface13
+    100566: polySurface14
+    100568: polySurface2
+    100570: polySurface3
+    100572: polySurface4
+    100574: polySurface5
+    100576: polySurface6
+    100578: polySurface7
+    100580: polySurface8
+    100582: polySurface9
+    100584: pPlane10
+    100586: pPlane11
+    100588: pPlane12
+    100590: pPlane13
+    100592: pPlane14
+    100594: pPlane2
+    100596: pPlane4
+    100598: pPlane5
+    100600: pPlane6
+    100602: pPlane7
+    100604: pPlane8
+    100606: pPlane9
+    100608: right_wheels_geo_grp
+    100610: right_wheels_geo_grp 1
+    100612: right_wheels_geo_grp 2
+    100614: school_building
+    100616: school_building1
+    100618: school_building2
+    100620: steering_wheel_geo
+    100622: steering_wheel_geo 1
+    100624: steering_wheel_geo 2
+    100626: stoop_geo
+    100628: stoplight:green_geo
+    100630: stoplight:green_geo 1
+    100632: stoplight:lights1_geo
+    100634: stoplight:lights2_geo
+    100636: stoplight:red_geo
+    100638: stoplight:red_geo 1
+    100640: stoplight:stoplight_geo
+    100642: stoplight:trafficlight_geo
+    100644: stoplight:yellow_geo
+    100646: stoplight:yellow_geo 1
+    100648: street_accents_geo_grp
+    100650: taillights_geo
+    100652: taillights_geo 1
+    100654: taillights_geo 2
+    100656: transform1
+    100658: transform2
+    100660: tree1
+    100662: tree1 1
+    100664: tree1 2
+    100666: tree1 3
+    100668: tree2
+    100670: tree2 1
+    100672: tree2 2
+    100674: tree3
+    100676: tree3 1
+    100678: tree3 2
+    100680: tree4
+    100682: tree4 1
+    100684: tree4 2
+    100686: tree5
+    100688: tree6
+    100690: tree7
+    100692: tree8
+    100694: tree8 1
+    100696: tree9
+    100698: tree:chars_all:LINEUP
+    100700: tree:chars_all:pCube4
+    100702: tree:chars_all:pCube5
+    100704: tree:chars_all:pCube6
+    100706: tree:chars_all:pCube7
+    100708: tree:CTRL
+    100710: tree:dirt_geo
+    100712: tree:grassbits_geo
+    100714: tree:tree1
+    100716: tree:tree2
+    100718: tree:tree3
+    100720: tree:tree4
+    100722: wheel_geo
+    100724: wheel_geo 1
+    100726: wheel_geo 2
+    100728: wheel_geo 3
+    100730: wheel_geo 4
+    100732: wheel_geo 5
+    100734: wheel_geo1
+    100736: wheel_geo1 1
+    100738: wheel_geo1 2
+    100740: wheel_geo1 3
+    100742: wheel_geo1 4
+    100744: wheel_geo1 5
+    100746: window
+    100748: window 1
+    100750: window 2
+    100752: window1
+    100754: window1 1
+    100756: window1 10
+    100758: window1 11
+    100760: window1 12
+    100762: window1 13
+    100764: window1 14
+    100766: window1 15
+    100768: window1 16
+    100770: window1 17
+    100772: window1 18
+    100774: window1 19
+    100776: window1 2
+    100778: window1 20
+    100780: window1 21
+    100782: window1 22
+    100784: window1 23
+    100786: window1 24
+    100788: window1 25
+    100790: window1 26
+    100792: window1 27
+    100794: window1 28
+    100796: window1 29
+    100798: window1 3
+    100800: window1 30
+    100802: window1 31
+    100804: window1 32
+    100806: window1 33
+    100808: window1 34
+    100810: window1 35
+    100812: window1 36
+    100814: window1 37
+    100816: window1 38
+    100818: window1 39
+    100820: window1 4
+    100822: window1 40
+    100824: window1 41
+    100826: window1 42
+    100828: window1 43
+    100830: window1 44
+    100832: window1 45
+    100834: window1 46
+    100836: window1 47
+    100838: window1 48
+    100840: window1 49
+    100842: window1 5
+    100844: window1 50
+    100846: window1 51
+    100848: window1 52
+    100850: window1 53
+    100852: window1 54
+    100854: window1 55
+    100856: window1 56
+    100858: window1 57
+    100860: window1 58
+    100862: window1 59
+    100864: window1 6
+    100866: window1 60
+    100868: window1 61
+    100870: window1 62
+    100872: window1 7
+    100874: window1 8
+    100876: window1 9
+    100878: window14
+    100880: window14 1
+    100882: window14 2
+    100884: window14 3
+    100886: window14 4
+    100888: window15
+    100890: window15 1
+    100892: window15 2
+    100894: window15 3
+    100896: window15 4
+    100898: window16
+    100900: window16 1
+    100902: window16 2
+    100904: window16 3
+    100906: window16 4
+    100908: window17
+    100910: window18
+    100912: window18 1
+    100914: window18 2
+    100916: window18 3
+    100918: window18 4
+    100920: window21
+    100922: window21 1
+    100924: window22
+    100926: window22 1
+    100928: window22 2
+    100930: window22 3
+    100932: window22 4
+    100934: window23
+    100936: window23 1
+    100938: window23 2
+    100940: window23 3
+    100942: window23 4
+    100944: window24
+    100946: window24 1
+    100948: window24 2
+    100950: window24 3
+    100952: window24 4
+    100954: window26
+    100956: window27
+    100958: window28
+    100960: window29
+    100962: window30
+    100964: window30 1
+    100966: window30 2
+    100968: window31
+    100970: window31 1
+    100972: window31 2
+    100974: window32
+    100976: window39
+    100978: window40
+    100980: window43
+    100982: window44
+    100984: window45
+    100986: window46
+    100988: window47
+    100990: window48
+    100992: window49
+    100994: window50
+    100996: window51
+    100998: window_braces
+    101000: world_geo_grp
+    400000: AC_Units
+    400002: ads_geo
+    400004: aiSkyDomeLight1
+    400006: apt_building_geo
+    400008: apt_building_geo1
+    400010: apt_windows
+    400012: b1_frontdoor_geo
+    400014: backseat_geo
+    400016: backseat_geo 1
+    400018: backseat_geo 2
+    400020: base_sidewalk
+    400022: base_sidewalk1
+    400024: base_sidewalk2
+    400026: base_sidewalk3
+    400028: base_sidewalk4
+    400030: base_sidewalk5
+    400032: base_sidewalk6
+    400034: base_sidewalk7
+    400036: base_sidewalk8
+    400038: blocks_geo_grp
+    400040: bodega_awning
+    400042: bodega_door
+    400044: bodega_exhaust
+    400046: bodega_geo_grp
+    400048: bodega_windows
+    400050: brocklee_car:backseat_geo
+    400052: brocklee_car:bumper_geo
+    400054: brocklee_car:car_ctrl
+    400056: brocklee_car:car_geo_buffergrp
+    400058: brocklee_car:car_geo_grp
+    400060: brocklee_car:chars_all:LINEUP
+    400062: brocklee_car:chars_all:pCube4
+    400064: brocklee_car:chars_all:pCube5
+    400066: brocklee_car:chars_all:pCube6
+    400068: brocklee_car:chars_all:pCube7
+    400070: brocklee_car:dashboard_geo
+    400072: brocklee_car:front_seat_geo
+    400074: brocklee_car:group1
+    400076: brocklee_car:group1 1
+    400078: brocklee_car:group2
+    400080: brocklee_car:group2 1
+    400082: brocklee_car:headlights_geo
+    400084: brocklee_car:left_wheels_geo_grp
+    400086: brocklee_car:mahjong_geo
+    400088: brocklee_car:main_body_geo
+    400090: brocklee_car:mirrors_geo
+    400092: brocklee_car:pCube8
+    400094: brocklee_car:right_wheels_geo_grp
+    400096: brocklee_car:steering_wheel_geo
+    400098: brocklee_car:taillights_geo
+    400100: brocklee_car:wheel_geo
+    400102: brocklee_car:wheel_geo 1
+    400104: brocklee_car:wheel_geo1
+    400106: brocklee_car:wheel_geo1 1
+    400108: buildings
+    400110: bumper_geo
+    400112: bumper_geo 1
+    400114: bumper_geo 2
+    400116: car_ctrl
+    400118: car_ctrl1
+    400120: car_ctrl2
+    400122: car_geo_buffergrp
+    400124: car_geo_buffergrp 1
+    400126: car_geo_buffergrp 2
+    400128: car_geo_grp
+    400130: car_geo_grp 1
+    400132: car_geo_grp 2
+    400134: //RootNode
+    400136: crosswalk_geo9
+    400138: crosswalk_geo_grp
+    400140: CTRL
+    400142: CTRL1
+    400144: CTRL2
+    400146: dashboard_geo
+    400148: dashboard_geo 1
+    400150: dashboard_geo 2
+    400152: dirt_geo
+    400154: dirt_geo 1
+    400156: dirt_geo 2
+    400158: dish2_geo
+    400160: dish_geo
+    400162: dish_geo_grp
+    400164: fire_escape_2
+    400166: fire_escape_geo_grp
+    400168: fountain_geo:fountain_geo
+    400170: fountain_geo:polySurface1
+    400172: fountain_geo:polySurface2
+    400174: fountain_geo:polySurface3
+    400176: fountain_geo:sculpture_ftn_topper_geo
+    400178: front_seat_geo
+    400180: front_seat_geo 1
+    400182: front_seat_geo 2
+    400184: grassbits_geo
+    400186: grassbits_geo 1
+    400188: grassbits_geo 2
+    400190: group1
+    400192: group1 1
+    400194: group1 2
+    400196: group1 3
+    400198: group1 4
+    400200: group1 5
+    400202: group10
+    400204: group11
+    400206: group12
+    400208: group15
+    400210: group16
+    400212: group17
+    400214: group18
+    400216: group19
+    400218: group2
+    400220: group2 1
+    400222: group2 2
+    400224: group2 3
+    400226: group2 4
+    400228: group2 5
+    400230: group20
+    400232: group21
+    400234: group22
+    400236: group23
+    400238: group24
+    400240: group25
+    400242: group26
+    400244: group27
+    400246: group28
+    400248: group29
+    400250: group30
+    400252: group31
+    400254: group32
+    400256: group33
+    400258: group34
+    400260: group35
+    400262: group36
+    400264: group57
+    400266: group58
+    400268: group59
+    400270: group60
+    400272: group61
+    400274: group62
+    400276: group63
+    400278: group64
+    400280: group65
+    400282: group66
+    400284: group67
+    400286: group68
+    400288: group8
+    400290: headlights_geo
+    400292: headlights_geo 1
+    400294: headlights_geo 2
+    400296: hotdogstand:awning_geo
+    400298: hotdogstand:big_wheels_geo
+    400300: hotdogstand:bottle_asset:pCylinder2
+    400302: hotdogstand:can_asset:pCylinder1
+    400304: hotdogstand:cart_geo
+    400306: hotdogstand:chair_geo
+    400308: hotdogstand:crate_geo
+    400310: hotdogstand:drinks_geo_grp
+    400312: hotdogstand:foodcart_umbrella1:awning_geo
+    400314: hotdogstand:foodcart_umbrella1:umbrella_geo
+    400316: hotdogstand:ketchup_geo
+    400318: hotdogstand:mustard_geo
+    400320: hotdogstand:pages_grp
+    400322: hotdogstand:pCube16
+    400324: hotdogstand:pCube17
+    400326: hotdogstand:pCube18
+    400328: hotdogstand:pCube2
+    400330: hotdogstand:pCube3
+    400332: hotdogstand:pCylinder1
+    400334: hotdogstand:pCylinder1 1
+    400336: hotdogstand:pCylinder2
+    400338: hotdogstand:pCylinder2 1
+    400340: hotdogstand:pCylinder2 2
+    400342: hotdogstand:pCylinder4
+    400344: hotdogstand:pCylinder9
+    400346: hotdogstand:pPlane1
+    400348: hotdogstand:pPlane2
+    400350: hotdogstand:pPlane3
+    400352: hotdogstand:pPlane4
+    400354: hotdogstand:pretzels_geo_grp
+    400356: hotdogstand:sm_wheels_geo
+    400358: hotdogstand:umbrella_geo
+    400360: ice_box_geo
+    400362: icee_cart_:cart_body_geo
+    400364: icee_cart_:cart_pocket_geo
+    400366: icee_cart_:cherry_cover_geo
+    400368: icee_cart_:cherry_geo
+    400370: icee_cart_:cherry_geo_grp
+    400372: icee_cart_:coco_cover_geo
+    400374: icee_cart_:coco_geo
+    400376: icee_cart_:coco_geo_grp
+    400378: icee_cart_:foodcart_umbrella:awning_geo
+    400380: icee_cart_:foodcart_umbrella:umbrella_geo
+    400382: icee_cart_:handles_geo
+    400384: icee_cart_:hinge_geo
+    400386: icee_cart_:hinge_geo1
+    400388: icee_cart_:hinge_geo2
+    400390: icee_cart_:lid_geo
+    400392: icee_cart_:lid_geo 1
+    400394: icee_cart_:lid_geo 2
+    400396: icee_cart_:lid_geo 3
+    400398: icee_cart_:mango_cover_geo2
+    400400: icee_cart_:mango_geo
+    400402: icee_cart_:mango_geo_grp
+    400404: icee_cart_:rainbow_cover_geo
+    400406: icee_cart_:rainbow_geo
+    400408: icee_cart_:rainbow_geo_grp
+    400410: icee_cart_:stool_geo
+    400412: icee_cart_:wheel_asset:hinge_geo
+    400414: icee_cart_:wheel_asset:wheel_geo
+    400416: icee_cart_:wheel_geo
+    400418: icee_cart_:wheel_geo 1
+    400420: icee_cart_:wheel_geo 2
+    400422: icee_cart_:wheels_geo_grp
+    400424: innerwindoes
+    400426: left_wheels_geo_grp
+    400428: left_wheels_geo_grp 1
+    400430: left_wheels_geo_grp 2
+    400432: line_grp
+    400434: mahjong_geo
+    400436: mahjong_geo 1
+    400438: mahjong_geo 2
+    400440: main_body_geo
+    400442: main_body_geo 1
+    400444: main_body_geo 2
+    400446: mirrors_geo
+    400448: mirrors_geo 1
+    400450: mirrors_geo 2
+    400452: outer_windows
+    400454: pCube128
+    400456: pCube130
+    400458: pCube131
+    400460: pCube132
+    400462: pCube133
+    400464: pCube141
+    400466: pCube142
+    400468: pCube146
+    400470: pCube147
+    400472: pCube148
+    400474: pCube149
+    400476: pCube150
+    400478: pCube151
+    400480: pCube152
+    400482: pCube153
+    400484: pCube154
+    400486: pCube155
+    400488: pCube156
+    400490: pCube157
+    400492: pCube158
+    400494: pCube159
+    400496: pCube160
+    400498: pCube161
+    400500: pCube162
+    400502: pCube163
+    400504: pCube164
+    400506: pCube165
+    400508: pCube166
+    400510: pCube167
+    400512: pCube168
+    400514: pCube170
+    400516: pCube171
+    400518: pCube172
+    400520: pCube173
+    400522: pCube174
+    400524: pCube2
+    400526: pCube3
+    400528: pCube4
+    400530: pCube5
+    400532: pCube64
+    400534: pCube67
+    400536: pCube68
+    400538: pCube72
+    400540: pCube73
+    400542: pCube74
+    400544: pCube75
+    400546: pCube76
+    400548: pCube8
+    400550: pCube8 1
+    400552: pCube8 2
+    400554: pCube85
+    400556: persp1
+    400558: polySurface1
+    400560: polySurface11
+    400562: polySurface12
+    400564: polySurface13
+    400566: polySurface14
+    400568: polySurface2
+    400570: polySurface3
+    400572: polySurface4
+    400574: polySurface5
+    400576: polySurface6
+    400578: polySurface7
+    400580: polySurface8
+    400582: polySurface9
+    400584: pPlane10
+    400586: pPlane11
+    400588: pPlane12
+    400590: pPlane13
+    400592: pPlane14
+    400594: pPlane2
+    400596: pPlane4
+    400598: pPlane5
+    400600: pPlane6
+    400602: pPlane7
+    400604: pPlane8
+    400606: pPlane9
+    400608: right_wheels_geo_grp
+    400610: right_wheels_geo_grp 1
+    400612: right_wheels_geo_grp 2
+    400614: school_building
+    400616: school_building1
+    400618: school_building2
+    400620: steering_wheel_geo
+    400622: steering_wheel_geo 1
+    400624: steering_wheel_geo 2
+    400626: stoop_geo
+    400628: stoplight:green_geo
+    400630: stoplight:green_geo 1
+    400632: stoplight:lights1_geo
+    400634: stoplight:lights2_geo
+    400636: stoplight:red_geo
+    400638: stoplight:red_geo 1
+    400640: stoplight:stoplight_geo
+    400642: stoplight:trafficlight_geo
+    400644: stoplight:yellow_geo
+    400646: stoplight:yellow_geo 1
+    400648: street_accents_geo_grp
+    400650: taillights_geo
+    400652: taillights_geo 1
+    400654: taillights_geo 2
+    400656: transform1
+    400658: transform2
+    400660: tree1
+    400662: tree1 1
+    400664: tree1 2
+    400666: tree1 3
+    400668: tree2
+    400670: tree2 1
+    400672: tree2 2
+    400674: tree3
+    400676: tree3 1
+    400678: tree3 2
+    400680: tree4
+    400682: tree4 1
+    400684: tree4 2
+    400686: tree5
+    400688: tree6
+    400690: tree7
+    400692: tree8
+    400694: tree8 1
+    400696: tree9
+    400698: tree:chars_all:LINEUP
+    400700: tree:chars_all:pCube4
+    400702: tree:chars_all:pCube5
+    400704: tree:chars_all:pCube6
+    400706: tree:chars_all:pCube7
+    400708: tree:CTRL
+    400710: tree:dirt_geo
+    400712: tree:grassbits_geo
+    400714: tree:tree1
+    400716: tree:tree2
+    400718: tree:tree3
+    400720: tree:tree4
+    400722: wheel_geo
+    400724: wheel_geo 1
+    400726: wheel_geo 2
+    400728: wheel_geo 3
+    400730: wheel_geo 4
+    400732: wheel_geo 5
+    400734: wheel_geo1
+    400736: wheel_geo1 1
+    400738: wheel_geo1 2
+    400740: wheel_geo1 3
+    400742: wheel_geo1 4
+    400744: wheel_geo1 5
+    400746: window
+    400748: window 1
+    400750: window 2
+    400752: window1
+    400754: window1 1
+    400756: window1 10
+    400758: window1 11
+    400760: window1 12
+    400762: window1 13
+    400764: window1 14
+    400766: window1 15
+    400768: window1 16
+    400770: window1 17
+    400772: window1 18
+    400774: window1 19
+    400776: window1 2
+    400778: window1 20
+    400780: window1 21
+    400782: window1 22
+    400784: window1 23
+    400786: window1 24
+    400788: window1 25
+    400790: window1 26
+    400792: window1 27
+    400794: window1 28
+    400796: window1 29
+    400798: window1 3
+    400800: window1 30
+    400802: window1 31
+    400804: window1 32
+    400806: window1 33
+    400808: window1 34
+    400810: window1 35
+    400812: window1 36
+    400814: window1 37
+    400816: window1 38
+    400818: window1 39
+    400820: window1 4
+    400822: window1 40
+    400824: window1 41
+    400826: window1 42
+    400828: window1 43
+    400830: window1 44
+    400832: window1 45
+    400834: window1 46
+    400836: window1 47
+    400838: window1 48
+    400840: window1 49
+    400842: window1 5
+    400844: window1 50
+    400846: window1 51
+    400848: window1 52
+    400850: window1 53
+    400852: window1 54
+    400854: window1 55
+    400856: window1 56
+    400858: window1 57
+    400860: window1 58
+    400862: window1 59
+    400864: window1 6
+    400866: window1 60
+    400868: window1 61
+    400870: window1 62
+    400872: window1 7
+    400874: window1 8
+    400876: window1 9
+    400878: window14
+    400880: window14 1
+    400882: window14 2
+    400884: window14 3
+    400886: window14 4
+    400888: window15
+    400890: window15 1
+    400892: window15 2
+    400894: window15 3
+    400896: window15 4
+    400898: window16
+    400900: window16 1
+    400902: window16 2
+    400904: window16 3
+    400906: window16 4
+    400908: window17
+    400910: window18
+    400912: window18 1
+    400914: window18 2
+    400916: window18 3
+    400918: window18 4
+    400920: window21
+    400922: window21 1
+    400924: window22
+    400926: window22 1
+    400928: window22 2
+    400930: window22 3
+    400932: window22 4
+    400934: window23
+    400936: window23 1
+    400938: window23 2
+    400940: window23 3
+    400942: window23 4
+    400944: window24
+    400946: window24 1
+    400948: window24 2
+    400950: window24 3
+    400952: window24 4
+    400954: window26
+    400956: window27
+    400958: window28
+    400960: window29
+    400962: window30
+    400964: window30 1
+    400966: window30 2
+    400968: window31
+    400970: window31 1
+    400972: window31 2
+    400974: window32
+    400976: window39
+    400978: window40
+    400980: window43
+    400982: window44
+    400984: window45
+    400986: window46
+    400988: window47
+    400990: window48
+    400992: window49
+    400994: window50
+    400996: window51
+    400998: window_braces
+    401000: world_geo_grp
+    2000000: persp1
+    2100000: lambert1
+    2100002: tree_concrete_texture
+    2100004: lambert4
+    2100006: lambert5
+    2100008: lambert6
+    2100010: lambert3
+    2100012: darker_orange
+    2100014: darker_orange1
+    2100016: white
+    2100018: windowpane_color
+    2100020: lambert7
+    2100022: lambert2
+    2100024: tree_tree3_texture
+    2100026: tree_bark1_texture
+    2100028: tree_tree1_texture
+    2100030: tree_tree2_texture
+    2100032: asphalt_texture
+    2100034: tree_bark2_texture
+    2100036: tree_lambert4
+    2100038: lambert15
+    2100040: lambert14
+    2100042: lambert16
+    2100044: stoplight_stoplight_texture
+    2100046: stoplight_light_red_texture
+    2100048: stoplight_light_green_texture
+    2100050: stoplight_light_yellow_texture
+    2100052: fountain_geo_lambert3
+    2100054: fountain_geo_lambert2
+    2100056: brocklee_car_wheel_asset_white_texture
+    2100058: brocklee_car_lambert6
+    2100060: brocklee_car_car_main_texture
+    2100062: brocklee_car_window_texture
+    2100064: brocklee_car_taillight_texture
+    2100066: brocklee_car_headlight_texture
+    2100068: brocklee_car_bumper_texture
+    2100070: brocklee_car_lambert7
+    2100072: brocklee_car_wheel_asset_black_texture
+    2100074: icee_cart__white_texture
+    2100076: icee_cart__teal_texture
+    2100078: icee_cart__steel_medium_texture
+    2100080: icee_cart__steel_light_texture
+    2100082: icee_cart__wheel_asset_black_texture
+    2100084: icee_cart__wheel_asset_white_texture
+    2100086: icee_cart__wheel_asset_shadow_texture
+    2100088: icee_cart__cherry_texture
+    2100090: icee_cart__orange_texture
+    2100092: icee_cart__yellow_texture
+    2100094: icee_cart__blue_texture
+    2100096: icee_cart__almost_black_texture
+    2100098: hotdogstand_white_texture
+    2100100: hotdogstand_cart_green_texture
+    2100102: hotdogstand_chair_dark_grey_texture
+    2100104: hotdogstand_foodcart_umbrella1_umbrella_color1_texture
+    2100106: hotdogstand_foodcart_umbrella2_umbrella_color2_texture
+    2100108: hotdogstand_pretzel_texture
+    2100110: hotdogstand_bottle_asset_bottle_color_texture
+    2100112: hotdogstand_bottle_asset_rim_and_cap_texture
+    2100114: hotdogstand_bottle_asset_accent_color_texture
+    2100116: hotdogstand_can_asset_can_color_texture
+    2100118: hotdogstand_foodcart_umbrella1_umbrella_color2_texture
+    2100120: hotdogstand_black_texture
+    2300000: ads_geo
+    2300002: apt_building_geo
+    2300004: apt_building_geo1
+    2300006: b1_frontdoor_geo
+    2300008: backseat_geo
+    2300010: backseat_geo 1
+    2300012: backseat_geo 2
+    2300014: base_sidewalk
+    2300016: base_sidewalk1
+    2300018: base_sidewalk2
+    2300020: base_sidewalk3
+    2300022: base_sidewalk4
+    2300024: base_sidewalk5
+    2300026: base_sidewalk6
+    2300028: base_sidewalk7
+    2300030: base_sidewalk8
+    2300032: bodega_awning
+    2300034: bodega_door
+    2300036: bodega_exhaust
+    2300038: bodega_windows
+    2300040: brocklee_car:backseat_geo
+    2300042: brocklee_car:bumper_geo
+    2300044: brocklee_car:chars_all:pCube4
+    2300046: brocklee_car:chars_all:pCube5
+    2300048: brocklee_car:chars_all:pCube6
+    2300050: brocklee_car:chars_all:pCube7
+    2300052: brocklee_car:dashboard_geo
+    2300054: brocklee_car:front_seat_geo
+    2300056: brocklee_car:headlights_geo
+    2300058: brocklee_car:mahjong_geo
+    2300060: brocklee_car:main_body_geo
+    2300062: brocklee_car:mirrors_geo
+    2300064: brocklee_car:pCube8
+    2300066: brocklee_car:steering_wheel_geo
+    2300068: brocklee_car:taillights_geo
+    2300070: brocklee_car:wheel_geo
+    2300072: brocklee_car:wheel_geo 1
+    2300074: brocklee_car:wheel_geo1
+    2300076: brocklee_car:wheel_geo1 1
+    2300078: bumper_geo
+    2300080: bumper_geo 1
+    2300082: bumper_geo 2
+    2300084: dashboard_geo
+    2300086: dashboard_geo 1
+    2300088: dashboard_geo 2
+    2300090: dirt_geo
+    2300092: dirt_geo 1
+    2300094: dirt_geo 2
+    2300096: dish2_geo
+    2300098: dish_geo
+    2300100: fire_escape_2
+    2300102: fountain_geo:fountain_geo
+    2300104: fountain_geo:polySurface1
+    2300106: fountain_geo:polySurface2
+    2300108: fountain_geo:polySurface3
+    2300110: front_seat_geo
+    2300112: front_seat_geo 1
+    2300114: front_seat_geo 2
+    2300116: grassbits_geo
+    2300118: grassbits_geo 1
+    2300120: grassbits_geo 2
+    2300122: group15
+    2300124: group16
+    2300126: group17
+    2300128: group18
+    2300130: group19
+    2300132: group20
+    2300134: group21
+    2300136: group22
+    2300138: group23
+    2300140: group24
+    2300142: group25
+    2300144: group26
+    2300146: group27
+    2300148: group28
+    2300150: group29
+    2300152: group30
+    2300154: group31
+    2300156: group32
+    2300158: group33
+    2300160: group34
+    2300162: group35
+    2300164: group36
+    2300166: group58
+    2300168: group59
+    2300170: group60
+    2300172: group61
+    2300174: group62
+    2300176: group63
+    2300178: headlights_geo
+    2300180: headlights_geo 1
+    2300182: headlights_geo 2
+    2300184: hotdogstand:awning_geo
+    2300186: hotdogstand:bottle_asset:pCylinder2
+    2300188: hotdogstand:can_asset:pCylinder1
+    2300190: hotdogstand:cart_geo
+    2300192: hotdogstand:chair_geo
+    2300194: hotdogstand:crate_geo
+    2300196: hotdogstand:foodcart_umbrella1:awning_geo
+    2300198: hotdogstand:foodcart_umbrella1:umbrella_geo
+    2300200: hotdogstand:ketchup_geo
+    2300202: hotdogstand:mustard_geo
+    2300204: hotdogstand:pCube16
+    2300206: hotdogstand:pCube17
+    2300208: hotdogstand:pCube18
+    2300210: hotdogstand:pCube2
+    2300212: hotdogstand:pCube3
+    2300214: hotdogstand:pCylinder1
+    2300216: hotdogstand:pCylinder1 1
+    2300218: hotdogstand:pCylinder2
+    2300220: hotdogstand:pCylinder2 1
+    2300222: hotdogstand:pCylinder2 2
+    2300224: hotdogstand:pCylinder4
+    2300226: hotdogstand:pCylinder9
+    2300228: hotdogstand:pPlane1
+    2300230: hotdogstand:pPlane2
+    2300232: hotdogstand:pPlane3
+    2300234: hotdogstand:pPlane4
+    2300236: hotdogstand:umbrella_geo
+    2300238: ice_box_geo
+    2300240: icee_cart_:cart_body_geo
+    2300242: icee_cart_:cart_pocket_geo
+    2300244: icee_cart_:cherry_cover_geo
+    2300246: icee_cart_:cherry_geo
+    2300248: icee_cart_:coco_cover_geo
+    2300250: icee_cart_:coco_geo
+    2300252: icee_cart_:foodcart_umbrella:awning_geo
+    2300254: icee_cart_:foodcart_umbrella:umbrella_geo
+    2300256: icee_cart_:handles_geo
+    2300258: icee_cart_:hinge_geo
+    2300260: icee_cart_:hinge_geo1
+    2300262: icee_cart_:hinge_geo2
+    2300264: icee_cart_:lid_geo
+    2300266: icee_cart_:lid_geo 1
+    2300268: icee_cart_:lid_geo 2
+    2300270: icee_cart_:lid_geo 3
+    2300272: icee_cart_:mango_cover_geo2
+    2300274: icee_cart_:mango_geo
+    2300276: icee_cart_:rainbow_cover_geo
+    2300278: icee_cart_:rainbow_geo
+    2300280: icee_cart_:stool_geo
+    2300282: icee_cart_:wheel_asset:hinge_geo
+    2300284: icee_cart_:wheel_asset:wheel_geo
+    2300286: icee_cart_:wheel_geo
+    2300288: icee_cart_:wheel_geo 1
+    2300290: icee_cart_:wheel_geo 2
+    2300292: mahjong_geo
+    2300294: mahjong_geo 1
+    2300296: mahjong_geo 2
+    2300298: main_body_geo
+    2300300: main_body_geo 1
+    2300302: main_body_geo 2
+    2300304: mirrors_geo
+    2300306: mirrors_geo 1
+    2300308: mirrors_geo 2
+    2300310: pCube128
+    2300312: pCube130
+    2300314: pCube131
+    2300316: pCube132
+    2300318: pCube133
+    2300320: pCube141
+    2300322: pCube142
+    2300324: pCube146
+    2300326: pCube147
+    2300328: pCube148
+    2300330: pCube149
+    2300332: pCube150
+    2300334: pCube151
+    2300336: pCube152
+    2300338: pCube153
+    2300340: pCube154
+    2300342: pCube155
+    2300344: pCube156
+    2300346: pCube157
+    2300348: pCube158
+    2300350: pCube159
+    2300352: pCube160
+    2300354: pCube161
+    2300356: pCube162
+    2300358: pCube163
+    2300360: pCube164
+    2300362: pCube165
+    2300364: pCube166
+    2300366: pCube167
+    2300368: pCube168
+    2300370: pCube170
+    2300372: pCube171
+    2300374: pCube172
+    2300376: pCube173
+    2300378: pCube174
+    2300380: pCube2
+    2300382: pCube3
+    2300384: pCube4
+    2300386: pCube5
+    2300388: pCube64
+    2300390: pCube67
+    2300392: pCube68
+    2300394: pCube72
+    2300396: pCube73
+    2300398: pCube74
+    2300400: pCube75
+    2300402: pCube76
+    2300404: pCube8
+    2300406: pCube8 1
+    2300408: pCube8 2
+    2300410: pCube85
+    2300412: polySurface1
+    2300414: polySurface11
+    2300416: polySurface12
+    2300418: polySurface13
+    2300420: polySurface14
+    2300422: polySurface2
+    2300424: polySurface3
+    2300426: polySurface4
+    2300428: polySurface5
+    2300430: polySurface6
+    2300432: polySurface7
+    2300434: polySurface8
+    2300436: polySurface9
+    2300438: pPlane10
+    2300440: pPlane11
+    2300442: pPlane12
+    2300444: pPlane13
+    2300446: pPlane14
+    2300448: pPlane2
+    2300450: pPlane4
+    2300452: pPlane5
+    2300454: pPlane6
+    2300456: pPlane7
+    2300458: pPlane8
+    2300460: pPlane9
+    2300462: steering_wheel_geo
+    2300464: steering_wheel_geo 1
+    2300466: steering_wheel_geo 2
+    2300468: stoop_geo
+    2300470: stoplight:green_geo
+    2300472: stoplight:green_geo 1
+    2300474: stoplight:lights1_geo
+    2300476: stoplight:lights2_geo
+    2300478: stoplight:red_geo
+    2300480: stoplight:red_geo 1
+    2300482: stoplight:stoplight_geo
+    2300484: stoplight:trafficlight_geo
+    2300486: stoplight:yellow_geo
+    2300488: stoplight:yellow_geo 1
+    2300490: taillights_geo
+    2300492: taillights_geo 1
+    2300494: taillights_geo 2
+    2300496: tree1
+    2300498: tree1 1
+    2300500: tree1 2
+    2300502: tree1 3
+    2300504: tree2
+    2300506: tree2 1
+    2300508: tree2 2
+    2300510: tree3
+    2300512: tree3 1
+    2300514: tree3 2
+    2300516: tree4
+    2300518: tree4 1
+    2300520: tree4 2
+    2300522: tree5
+    2300524: tree6
+    2300526: tree7
+    2300528: tree8
+    2300530: tree8 1
+    2300532: tree9
+    2300534: tree:chars_all:pCube4
+    2300536: tree:chars_all:pCube5
+    2300538: tree:chars_all:pCube6
+    2300540: tree:chars_all:pCube7
+    2300542: tree:dirt_geo
+    2300544: tree:grassbits_geo
+    2300546: tree:tree1
+    2300548: tree:tree2
+    2300550: tree:tree3
+    2300552: tree:tree4
+    2300554: wheel_geo
+    2300556: wheel_geo 1
+    2300558: wheel_geo 2
+    2300560: wheel_geo 3
+    2300562: wheel_geo 4
+    2300564: wheel_geo 5
+    2300566: wheel_geo1
+    2300568: wheel_geo1 1
+    2300570: wheel_geo1 2
+    2300572: wheel_geo1 3
+    2300574: wheel_geo1 4
+    2300576: wheel_geo1 5
+    2300578: window
+    2300580: window 1
+    2300582: window 2
+    2300584: window1
+    2300586: window1 1
+    2300588: window1 10
+    2300590: window1 11
+    2300592: window1 12
+    2300594: window1 13
+    2300596: window1 14
+    2300598: window1 15
+    2300600: window1 16
+    2300602: window1 17
+    2300604: window1 18
+    2300606: window1 19
+    2300608: window1 2
+    2300610: window1 20
+    2300612: window1 21
+    2300614: window1 22
+    2300616: window1 23
+    2300618: window1 24
+    2300620: window1 25
+    2300622: window1 26
+    2300624: window1 27
+    2300626: window1 28
+    2300628: window1 29
+    2300630: window1 3
+    2300632: window1 30
+    2300634: window1 31
+    2300636: window1 32
+    2300638: window1 33
+    2300640: window1 34
+    2300642: window1 35
+    2300644: window1 36
+    2300646: window1 37
+    2300648: window1 38
+    2300650: window1 39
+    2300652: window1 4
+    2300654: window1 40
+    2300656: window1 41
+    2300658: window1 42
+    2300660: window1 43
+    2300662: window1 44
+    2300664: window1 45
+    2300666: window1 46
+    2300668: window1 47
+    2300670: window1 48
+    2300672: window1 49
+    2300674: window1 5
+    2300676: window1 50
+    2300678: window1 51
+    2300680: window1 52
+    2300682: window1 53
+    2300684: window1 54
+    2300686: window1 55
+    2300688: window1 56
+    2300690: window1 57
+    2300692: window1 58
+    2300694: window1 59
+    2300696: window1 6
+    2300698: window1 60
+    2300700: window1 61
+    2300702: window1 62
+    2300704: window1 7
+    2300706: window1 8
+    2300708: window1 9
+    2300710: window14
+    2300712: window14 1
+    2300714: window14 2
+    2300716: window14 3
+    2300718: window14 4
+    2300720: window15
+    2300722: window15 1
+    2300724: window15 2
+    2300726: window15 3
+    2300728: window15 4
+    2300730: window16
+    2300732: window16 1
+    2300734: window16 2
+    2300736: window16 3
+    2300738: window16 4
+    2300740: window17
+    2300742: window18
+    2300744: window18 1
+    2300746: window18 2
+    2300748: window18 3
+    2300750: window18 4
+    2300752: window21
+    2300754: window21 1
+    2300756: window22
+    2300758: window22 1
+    2300760: window22 2
+    2300762: window22 3
+    2300764: window22 4
+    2300766: window23
+    2300768: window23 1
+    2300770: window23 2
+    2300772: window23 3
+    2300774: window23 4
+    2300776: window24
+    2300778: window24 1
+    2300780: window24 2
+    2300782: window24 3
+    2300784: window24 4
+    2300786: window26
+    2300788: window27
+    2300790: window28
+    2300792: window29
+    2300794: window30
+    2300796: window30 1
+    2300798: window30 2
+    2300800: window31
+    2300802: window31 1
+    2300804: window31 2
+    2300806: window32
+    2300808: window39
+    2300810: window40
+    2300812: window43
+    2300814: window44
+    2300816: window45
+    2300818: window46
+    2300820: window47
+    2300822: window48
+    2300824: window49
+    2300826: window50
+    2300828: window51
+    3300000: ads_geo
+    3300002: apt_building_geo
+    3300004: apt_building_geo1
+    3300006: b1_frontdoor_geo
+    3300008: backseat_geo
+    3300010: backseat_geo 1
+    3300012: backseat_geo 2
+    3300014: base_sidewalk
+    3300016: base_sidewalk1
+    3300018: base_sidewalk2
+    3300020: base_sidewalk3
+    3300022: base_sidewalk4
+    3300024: base_sidewalk5
+    3300026: base_sidewalk6
+    3300028: base_sidewalk7
+    3300030: base_sidewalk8
+    3300032: bodega_awning
+    3300034: bodega_door
+    3300036: bodega_exhaust
+    3300038: bodega_windows
+    3300040: brocklee_car:backseat_geo
+    3300042: brocklee_car:bumper_geo
+    3300044: brocklee_car:chars_all:pCube4
+    3300046: brocklee_car:chars_all:pCube5
+    3300048: brocklee_car:chars_all:pCube6
+    3300050: brocklee_car:chars_all:pCube7
+    3300052: brocklee_car:dashboard_geo
+    3300054: brocklee_car:front_seat_geo
+    3300056: brocklee_car:headlights_geo
+    3300058: brocklee_car:mahjong_geo
+    3300060: brocklee_car:main_body_geo
+    3300062: brocklee_car:mirrors_geo
+    3300064: brocklee_car:pCube8
+    3300066: brocklee_car:steering_wheel_geo
+    3300068: brocklee_car:taillights_geo
+    3300070: brocklee_car:wheel_geo
+    3300072: brocklee_car:wheel_geo 1
+    3300074: brocklee_car:wheel_geo1
+    3300076: brocklee_car:wheel_geo1 1
+    3300078: bumper_geo
+    3300080: bumper_geo 1
+    3300082: bumper_geo 2
+    3300084: dashboard_geo
+    3300086: dashboard_geo 1
+    3300088: dashboard_geo 2
+    3300090: dirt_geo
+    3300092: dirt_geo 1
+    3300094: dirt_geo 2
+    3300096: dish2_geo
+    3300098: dish_geo
+    3300100: fire_escape_2
+    3300102: fountain_geo:fountain_geo
+    3300104: fountain_geo:polySurface1
+    3300106: fountain_geo:polySurface2
+    3300108: fountain_geo:polySurface3
+    3300110: front_seat_geo
+    3300112: front_seat_geo 1
+    3300114: front_seat_geo 2
+    3300116: grassbits_geo
+    3300118: grassbits_geo 1
+    3300120: grassbits_geo 2
+    3300122: group15
+    3300124: group16
+    3300126: group17
+    3300128: group18
+    3300130: group19
+    3300132: group20
+    3300134: group21
+    3300136: group22
+    3300138: group23
+    3300140: group24
+    3300142: group25
+    3300144: group26
+    3300146: group27
+    3300148: group28
+    3300150: group29
+    3300152: group30
+    3300154: group31
+    3300156: group32
+    3300158: group33
+    3300160: group34
+    3300162: group35
+    3300164: group36
+    3300166: group58
+    3300168: group59
+    3300170: group60
+    3300172: group61
+    3300174: group62
+    3300176: group63
+    3300178: headlights_geo
+    3300180: headlights_geo 1
+    3300182: headlights_geo 2
+    3300184: hotdogstand:awning_geo
+    3300186: hotdogstand:bottle_asset:pCylinder2
+    3300188: hotdogstand:can_asset:pCylinder1
+    3300190: hotdogstand:cart_geo
+    3300192: hotdogstand:chair_geo
+    3300194: hotdogstand:crate_geo
+    3300196: hotdogstand:foodcart_umbrella1:awning_geo
+    3300198: hotdogstand:foodcart_umbrella1:umbrella_geo
+    3300200: hotdogstand:ketchup_geo
+    3300202: hotdogstand:mustard_geo
+    3300204: hotdogstand:pCube16
+    3300206: hotdogstand:pCube17
+    3300208: hotdogstand:pCube18
+    3300210: hotdogstand:pCube2
+    3300212: hotdogstand:pCube3
+    3300214: hotdogstand:pCylinder1
+    3300216: hotdogstand:pCylinder1 1
+    3300218: hotdogstand:pCylinder2
+    3300220: hotdogstand:pCylinder2 1
+    3300222: hotdogstand:pCylinder2 2
+    3300224: hotdogstand:pCylinder4
+    3300226: hotdogstand:pCylinder9
+    3300228: hotdogstand:pPlane1
+    3300230: hotdogstand:pPlane2
+    3300232: hotdogstand:pPlane3
+    3300234: hotdogstand:pPlane4
+    3300236: hotdogstand:umbrella_geo
+    3300238: ice_box_geo
+    3300240: icee_cart_:cart_body_geo
+    3300242: icee_cart_:cart_pocket_geo
+    3300244: icee_cart_:cherry_cover_geo
+    3300246: icee_cart_:cherry_geo
+    3300248: icee_cart_:coco_cover_geo
+    3300250: icee_cart_:coco_geo
+    3300252: icee_cart_:foodcart_umbrella:awning_geo
+    3300254: icee_cart_:foodcart_umbrella:umbrella_geo
+    3300256: icee_cart_:handles_geo
+    3300258: icee_cart_:hinge_geo
+    3300260: icee_cart_:hinge_geo1
+    3300262: icee_cart_:hinge_geo2
+    3300264: icee_cart_:lid_geo
+    3300266: icee_cart_:lid_geo 1
+    3300268: icee_cart_:lid_geo 2
+    3300270: icee_cart_:lid_geo 3
+    3300272: icee_cart_:mango_cover_geo2
+    3300274: icee_cart_:mango_geo
+    3300276: icee_cart_:rainbow_cover_geo
+    3300278: icee_cart_:rainbow_geo
+    3300280: icee_cart_:stool_geo
+    3300282: icee_cart_:wheel_asset:hinge_geo
+    3300284: icee_cart_:wheel_asset:wheel_geo
+    3300286: icee_cart_:wheel_geo
+    3300288: icee_cart_:wheel_geo 1
+    3300290: icee_cart_:wheel_geo 2
+    3300292: mahjong_geo
+    3300294: mahjong_geo 1
+    3300296: mahjong_geo 2
+    3300298: main_body_geo
+    3300300: main_body_geo 1
+    3300302: main_body_geo 2
+    3300304: mirrors_geo
+    3300306: mirrors_geo 1
+    3300308: mirrors_geo 2
+    3300310: pCube128
+    3300312: pCube130
+    3300314: pCube131
+    3300316: pCube132
+    3300318: pCube133
+    3300320: pCube141
+    3300322: pCube142
+    3300324: pCube146
+    3300326: pCube147
+    3300328: pCube148
+    3300330: pCube149
+    3300332: pCube150
+    3300334: pCube151
+    3300336: pCube152
+    3300338: pCube153
+    3300340: pCube154
+    3300342: pCube155
+    3300344: pCube156
+    3300346: pCube157
+    3300348: pCube158
+    3300350: pCube159
+    3300352: pCube160
+    3300354: pCube161
+    3300356: pCube162
+    3300358: pCube163
+    3300360: pCube164
+    3300362: pCube165
+    3300364: pCube166
+    3300366: pCube167
+    3300368: pCube168
+    3300370: pCube170
+    3300372: pCube171
+    3300374: pCube172
+    3300376: pCube173
+    3300378: pCube174
+    3300380: pCube2
+    3300382: pCube3
+    3300384: pCube4
+    3300386: pCube5
+    3300388: pCube64
+    3300390: pCube67
+    3300392: pCube68
+    3300394: pCube72
+    3300396: pCube73
+    3300398: pCube74
+    3300400: pCube75
+    3300402: pCube76
+    3300404: pCube8
+    3300406: pCube8 1
+    3300408: pCube8 2
+    3300410: pCube85
+    3300412: polySurface1
+    3300414: polySurface11
+    3300416: polySurface12
+    3300418: polySurface13
+    3300420: polySurface14
+    3300422: polySurface2
+    3300424: polySurface3
+    3300426: polySurface4
+    3300428: polySurface5
+    3300430: polySurface6
+    3300432: polySurface7
+    3300434: polySurface8
+    3300436: polySurface9
+    3300438: pPlane10
+    3300440: pPlane11
+    3300442: pPlane12
+    3300444: pPlane13
+    3300446: pPlane14
+    3300448: pPlane2
+    3300450: pPlane4
+    3300452: pPlane5
+    3300454: pPlane6
+    3300456: pPlane7
+    3300458: pPlane8
+    3300460: pPlane9
+    3300462: steering_wheel_geo
+    3300464: steering_wheel_geo 1
+    3300466: steering_wheel_geo 2
+    3300468: stoop_geo
+    3300470: stoplight:green_geo
+    3300472: stoplight:green_geo 1
+    3300474: stoplight:lights1_geo
+    3300476: stoplight:lights2_geo
+    3300478: stoplight:red_geo
+    3300480: stoplight:red_geo 1
+    3300482: stoplight:stoplight_geo
+    3300484: stoplight:trafficlight_geo
+    3300486: stoplight:yellow_geo
+    3300488: stoplight:yellow_geo 1
+    3300490: taillights_geo
+    3300492: taillights_geo 1
+    3300494: taillights_geo 2
+    3300496: tree1
+    3300498: tree1 1
+    3300500: tree1 2
+    3300502: tree1 3
+    3300504: tree2
+    3300506: tree2 1
+    3300508: tree2 2
+    3300510: tree3
+    3300512: tree3 1
+    3300514: tree3 2
+    3300516: tree4
+    3300518: tree4 1
+    3300520: tree4 2
+    3300522: tree5
+    3300524: tree6
+    3300526: tree7
+    3300528: tree8
+    3300530: tree8 1
+    3300532: tree9
+    3300534: tree:chars_all:pCube4
+    3300536: tree:chars_all:pCube5
+    3300538: tree:chars_all:pCube6
+    3300540: tree:chars_all:pCube7
+    3300542: tree:dirt_geo
+    3300544: tree:grassbits_geo
+    3300546: tree:tree1
+    3300548: tree:tree2
+    3300550: tree:tree3
+    3300552: tree:tree4
+    3300554: wheel_geo
+    3300556: wheel_geo 1
+    3300558: wheel_geo 2
+    3300560: wheel_geo 3
+    3300562: wheel_geo 4
+    3300564: wheel_geo 5
+    3300566: wheel_geo1
+    3300568: wheel_geo1 1
+    3300570: wheel_geo1 2
+    3300572: wheel_geo1 3
+    3300574: wheel_geo1 4
+    3300576: wheel_geo1 5
+    3300578: window
+    3300580: window 1
+    3300582: window 2
+    3300584: window1
+    3300586: window1 1
+    3300588: window1 10
+    3300590: window1 11
+    3300592: window1 12
+    3300594: window1 13
+    3300596: window1 14
+    3300598: window1 15
+    3300600: window1 16
+    3300602: window1 17
+    3300604: window1 18
+    3300606: window1 19
+    3300608: window1 2
+    3300610: window1 20
+    3300612: window1 21
+    3300614: window1 22
+    3300616: window1 23
+    3300618: window1 24
+    3300620: window1 25
+    3300622: window1 26
+    3300624: window1 27
+    3300626: window1 28
+    3300628: window1 29
+    3300630: window1 3
+    3300632: window1 30
+    3300634: window1 31
+    3300636: window1 32
+    3300638: window1 33
+    3300640: window1 34
+    3300642: window1 35
+    3300644: window1 36
+    3300646: window1 37
+    3300648: window1 38
+    3300650: window1 39
+    3300652: window1 4
+    3300654: window1 40
+    3300656: window1 41
+    3300658: window1 42
+    3300660: window1 43
+    3300662: window1 44
+    3300664: window1 45
+    3300666: window1 46
+    3300668: window1 47
+    3300670: window1 48
+    3300672: window1 49
+    3300674: window1 5
+    3300676: window1 50
+    3300678: window1 51
+    3300680: window1 52
+    3300682: window1 53
+    3300684: window1 54
+    3300686: window1 55
+    3300688: window1 56
+    3300690: window1 57
+    3300692: window1 58
+    3300694: window1 59
+    3300696: window1 6
+    3300698: window1 60
+    3300700: window1 61
+    3300702: window1 62
+    3300704: window1 7
+    3300706: window1 8
+    3300708: window1 9
+    3300710: window14
+    3300712: window14 1
+    3300714: window14 2
+    3300716: window14 3
+    3300718: window14 4
+    3300720: window15
+    3300722: window15 1
+    3300724: window15 2
+    3300726: window15 3
+    3300728: window15 4
+    3300730: window16
+    3300732: window16 1
+    3300734: window16 2
+    3300736: window16 3
+    3300738: window16 4
+    3300740: window17
+    3300742: window18
+    3300744: window18 1
+    3300746: window18 2
+    3300748: window18 3
+    3300750: window18 4
+    3300752: window21
+    3300754: window21 1
+    3300756: window22
+    3300758: window22 1
+    3300760: window22 2
+    3300762: window22 3
+    3300764: window22 4
+    3300766: window23
+    3300768: window23 1
+    3300770: window23 2
+    3300772: window23 3
+    3300774: window23 4
+    3300776: window24
+    3300778: window24 1
+    3300780: window24 2
+    3300782: window24 3
+    3300784: window24 4
+    3300786: window26
+    3300788: window27
+    3300790: window28
+    3300792: window29
+    3300794: window30
+    3300796: window30 1
+    3300798: window30 2
+    3300800: window31
+    3300802: window31 1
+    3300804: window31 2
+    3300806: window32
+    3300808: window39
+    3300810: window40
+    3300812: window43
+    3300814: window44
+    3300816: window45
+    3300818: window46
+    3300820: window47
+    3300822: window48
+    3300824: window49
+    3300826: window50
+    3300828: window51
+    4300000: pCube153
+    4300002: pCube152
+    4300004: pCube151
+    4300006: pCube150
+    4300008: base_sidewalk
+    4300010: base_sidewalk2
+    4300012: base_sidewalk3
+    4300014: base_sidewalk4
+    4300016: base_sidewalk5
+    4300018: base_sidewalk6
+    4300020: base_sidewalk8
+    4300022: base_sidewalk7
+    4300024: pCube3
+    4300026: pCube4
+    4300028: pCube5
+    4300030: pCube2
+    4300032: pCube146
+    4300034: pCube147
+    4300036: pCube148
+    4300038: pCube149
+    4300040: apt_building_geo
+    4300042: ads_geo
+    4300044: stoop_geo
+    4300046: bodega_door
+    4300048: ice_box_geo
+    4300050: bodega_exhaust
+    4300052: bodega_windows
+    4300054: bodega_awning
+    4300056: dish2_geo
+    4300058: dish_geo
+    4300060: fire_escape_2
+    4300062: polySurface1
+    4300064: b1_frontdoor_geo
+    4300066: window40
+    4300068: window1
+    4300070: window14
+    4300072: window1
+    4300074: window15
+    4300076: window1
+    4300078: window16
+    4300080: window1
+    4300082: window21
+    4300084: window18
+    4300086: window1
+    4300088: window1
+    4300090: window22
+    4300092: window1
+    4300094: window23
+    4300096: window1
+    4300098: window24
+    4300100: window1
+    4300102: window45
+    4300104: window18
+    4300106: window1
+    4300108: window1
+    4300110: window22
+    4300112: window1
+    4300114: window23
+    4300116: window1
+    4300118: window24
+    4300120: window1
+    4300122: window43
+    4300124: window1
+    4300126: window14
+    4300128: window1
+    4300130: window15
+    4300132: window1
+    4300134: window16
+    4300136: window1
+    4300138: window17
+    4300140: window1
+    4300142: window14
+    4300144: window1
+    4300146: window15
+    4300148: window1
+    4300150: window16
+    4300152: window1
+    4300154: window21
+    4300156: window18
+    4300158: window1
+    4300160: window1
+    4300162: window22
+    4300164: window1
+    4300166: window23
+    4300168: window1
+    4300170: window24
+    4300172: window1
+    4300174: window46
+    4300176: window18
+    4300178: window1
+    4300180: window1
+    4300182: window22
+    4300184: window1
+    4300186: window23
+    4300188: window1
+    4300190: window24
+    4300192: window1
+    4300194: window47
+    4300196: window1
+    4300198: window14
+    4300200: window1
+    4300202: window15
+    4300204: window1
+    4300206: window16
+    4300208: window1
+    4300210: window48
+    4300212: window18
+    4300214: window1
+    4300216: window1
+    4300218: window22
+    4300220: window1
+    4300222: window23
+    4300224: window1
+    4300226: window24
+    4300228: window1
+    4300230: window49
+    4300232: window1
+    4300234: window14
+    4300236: window1
+    4300238: window15
+    4300240: window1
+    4300242: window16
+    4300244: window1
+    4300246: window32
+    4300248: window1
+    4300250: window
+    4300252: window1
+    4300254: window30
+    4300256: window1
+    4300258: window31
+    4300260: window1
+    4300262: window39
+    4300264: window1
+    4300266: window
+    4300268: window1
+    4300270: window30
+    4300272: window1
+    4300274: window31
+    4300276: window1
+    4300278: window44
+    4300280: window1
+    4300282: window
+    4300284: window1
+    4300286: window30
+    4300288: window1
+    4300290: window31
+    4300292: window1
+    4300294: window50
+    4300296: window1
+    4300298: window29
+    4300300: window1
+    4300302: window27
+    4300304: window1
+    4300306: window26
+    4300308: window1
+    4300310: window28
+    4300312: window1
+    4300314: window51
+    4300316: window1
+    4300318: pCube68
+    4300320: pCube67
+    4300322: pCube64
+    4300324: pCube72
+    4300326: pCube73
+    4300328: pCube74
+    4300330: pCube75
+    4300332: pCube76
+    4300334: pCube85
+    4300336: pCube128
+    4300338: pCube130
+    4300340: pCube131
+    4300342: pCube132
+    4300344: pCube133
+    4300346: group36
+    4300348: group35
+    4300350: group30
+    4300352: group29
+    4300354: group27
+    4300356: group26
+    4300358: group25
+    4300360: group24
+    4300362: group23
+    4300364: group22
+    4300366: group21
+    4300368: group20
+    4300370: group19
+    4300372: group18
+    4300374: group17
+    4300376: group16
+    4300378: group15
+    4300380: group28
+    4300382: group32
+    4300384: group33
+    4300386: group31
+    4300388: group34
+    4300390: group58
+    4300392: group59
+    4300394: group60
+    4300396: group61
+    4300398: group62
+    4300400: group63
+    4300402: pCube142
+    4300404: pCube141
+    4300406: apt_building_geo1
+    4300408: tree8
+    4300410: tree1
+    4300412: pPlane4
+    4300414: pPlane5
+    4300416: pPlane6
+    4300418: pPlane7
+    4300420: pPlane8
+    4300422: pPlane9
+    4300424: pPlane10
+    4300426: pPlane11
+    4300428: pPlane12
+    4300430: pPlane13
+    4300432: pPlane14
+    4300434: tree1
+    4300436: tree2
+    4300438: tree3
+    4300440: tree4
+    4300442: dirt_geo
+    4300444: grassbits_geo
+    4300446: tree1
+    4300448: tree2
+    4300450: tree3
+    4300452: tree4
+    4300454: dirt_geo
+    4300456: grassbits_geo
+    4300458: tree1
+    4300460: tree2
+    4300462: tree3
+    4300464: tree4
+    4300466: dirt_geo
+    4300468: grassbits_geo
+    4300470: pPlane2
+    4300472: polySurface6
+    4300474: polySurface3
+    4300476: polySurface7
+    4300478: pCube170
+    4300480: pCube171
+    4300482: pCube168
+    4300484: pCube167
+    4300486: pCube166
+    4300488: polySurface8
+    4300490: polySurface5
+    4300492: polySurface4
+    4300494: polySurface9
+    4300496: polySurface2
+    4300498: pCube172
+    4300500: pCube173
+    4300502: pCube174
+    4300504: stoplight:trafficlight_geo
+    4300506: stoplight:stoplight_geo
+    4300508: stoplight:lights1_geo
+    4300510: stoplight:red_geo
+    4300512: stoplight:green_geo
+    4300514: stoplight:yellow_geo
+    4300516: stoplight:lights2_geo
+    4300518: stoplight:red_geo
+    4300520: stoplight:green_geo
+    4300522: stoplight:yellow_geo
+    4300524: fountain_geo:fountain_geo
+    4300526: fountain_geo:polySurface1
+    4300528: fountain_geo:polySurface2
+    4300530: fountain_geo:polySurface3
+    4300532: tree:tree1
+    4300534: tree:tree2
+    4300536: tree:tree3
+    4300538: tree:tree4
+    4300540: tree:dirt_geo
+    4300542: tree:grassbits_geo
+    4300544: tree:chars_all:pCube7
+    4300546: tree:chars_all:pCube6
+    4300548: tree:chars_all:pCube5
+    4300550: tree:chars_all:pCube4
+    4300552: brocklee_car:mahjong_geo
+    4300554: brocklee_car:pCube8
+    4300556: brocklee_car:main_body_geo
+    4300558: brocklee_car:mirrors_geo
+    4300560: brocklee_car:taillights_geo
+    4300562: brocklee_car:headlights_geo
+    4300564: brocklee_car:bumper_geo
+    4300566: brocklee_car:backseat_geo
+    4300568: brocklee_car:front_seat_geo
+    4300570: brocklee_car:dashboard_geo
+    4300572: brocklee_car:steering_wheel_geo
+    4300574: brocklee_car:wheel_geo1
+    4300576: brocklee_car:wheel_geo
+    4300578: brocklee_car:wheel_geo1
+    4300580: brocklee_car:wheel_geo
+    4300582: brocklee_car:chars_all:pCube7
+    4300584: brocklee_car:chars_all:pCube6
+    4300586: brocklee_car:chars_all:pCube5
+    4300588: brocklee_car:chars_all:pCube4
+    4300590: mahjong_geo
+    4300592: pCube8
+    4300594: main_body_geo
+    4300596: mirrors_geo
+    4300598: taillights_geo
+    4300600: headlights_geo
+    4300602: bumper_geo
+    4300604: backseat_geo
+    4300606: front_seat_geo
+    4300608: dashboard_geo
+    4300610: steering_wheel_geo
+    4300612: wheel_geo1
+    4300614: wheel_geo
+    4300616: wheel_geo1
+    4300618: wheel_geo
+    4300620: mahjong_geo
+    4300622: pCube8
+    4300624: main_body_geo
+    4300626: mirrors_geo
+    4300628: taillights_geo
+    4300630: headlights_geo
+    4300632: bumper_geo
+    4300634: backseat_geo
+    4300636: front_seat_geo
+    4300638: dashboard_geo
+    4300640: steering_wheel_geo
+    4300642: wheel_geo1
+    4300644: wheel_geo
+    4300646: wheel_geo1
+    4300648: wheel_geo
+    4300650: tree7
+    4300652: tree5
+    4300654: tree9
+    4300656: tree8
+    4300658: tree6
+    4300660: pCube155
+    4300662: icee_cart_:foodcart_umbrella:awning_geo
+    4300664: icee_cart_:cart_body_geo
+    4300666: icee_cart_:cart_pocket_geo
+    4300668: icee_cart_:handles_geo
+    4300670: icee_cart_:wheel_asset:hinge_geo
+    4300672: icee_cart_:wheel_asset:wheel_geo
+    4300674: icee_cart_:hinge_geo
+    4300676: icee_cart_:wheel_geo
+    4300678: icee_cart_:hinge_geo1
+    4300680: icee_cart_:wheel_geo
+    4300682: icee_cart_:hinge_geo2
+    4300684: icee_cart_:wheel_geo
+    4300686: icee_cart_:cherry_cover_geo
+    4300688: icee_cart_:lid_geo
+    4300690: icee_cart_:cherry_geo
+    4300692: icee_cart_:coco_geo
+    4300694: icee_cart_:coco_cover_geo
+    4300696: icee_cart_:lid_geo
+    4300698: icee_cart_:mango_cover_geo2
+    4300700: icee_cart_:lid_geo
+    4300702: icee_cart_:mango_geo
+    4300704: icee_cart_:rainbow_cover_geo
+    4300706: icee_cart_:lid_geo
+    4300708: icee_cart_:rainbow_geo
+    4300710: icee_cart_:foodcart_umbrella:umbrella_geo
+    4300712: icee_cart_:stool_geo
+    4300714: hotdogstand:cart_geo
+    4300716: hotdogstand:umbrella_geo
+    4300718: hotdogstand:awning_geo
+    4300720: hotdogstand:chair_geo
+    4300722: hotdogstand:pCube18
+    4300724: hotdogstand:pCube17
+    4300726: hotdogstand:pCube16
+    4300728: hotdogstand:pPlane1
+    4300730: hotdogstand:pPlane2
+    4300732: hotdogstand:pPlane4
+    4300734: hotdogstand:pPlane3
+    4300736: hotdogstand:ketchup_geo
+    4300738: hotdogstand:mustard_geo
+    4300740: hotdogstand:crate_geo
+    4300742: hotdogstand:bottle_asset:pCylinder2
+    4300744: hotdogstand:pCylinder2
+    4300746: hotdogstand:can_asset:pCylinder1
+    4300748: hotdogstand:pCylinder9
+    4300750: hotdogstand:pCylinder1
+    4300752: hotdogstand:foodcart_umbrella1:umbrella_geo
+    4300754: hotdogstand:foodcart_umbrella1:awning_geo
+    4300756: hotdogstand:pCube2
+    4300758: hotdogstand:pCylinder2
+    4300760: hotdogstand:pCube3
+    4300762: hotdogstand:pCylinder2
+    4300764: hotdogstand:pCylinder4
+    4300766: hotdogstand:pCylinder1
+    4300768: base_sidewalk1
+    4300770: pCube154
+    4300772: pCube157
+    4300774: pCube156
+    4300776: pCube162
+    4300778: pCube163
+    4300780: pCube165
+    4300782: pCube164
+    4300784: pCube158
+    4300786: pCube159
+    4300788: pCube160
+    4300790: pCube161
+    4300792: mahjong_geo
+    4300794: pCube8
+    4300796: main_body_geo
+    4300798: mirrors_geo
+    4300800: taillights_geo
+    4300802: headlights_geo
+    4300804: bumper_geo
+    4300806: backseat_geo
+    4300808: front_seat_geo
+    4300810: dashboard_geo
+    4300812: steering_wheel_geo
+    4300814: wheel_geo1
+    4300816: wheel_geo
+    4300818: wheel_geo1
+    4300820: wheel_geo
+    4300822: polySurface11
+    4300824: polySurface12
+    4300826: polySurface13
+    4300828: polySurface14
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
