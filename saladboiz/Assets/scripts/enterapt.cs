@@ -6,11 +6,13 @@ using UnityEngine.UI;
 
     public class enterapt : MonoBehaviour
 {
-    
+
+    public System.String gotoScene;
+
     void OnMouseOver()
     {   
         if (Input.GetMouseButtonDown(0)){
-            SceneManager.LoadScene("loading_scene");
+            SceneManager.LoadScene(gotoScene);
         }
     }
 }
