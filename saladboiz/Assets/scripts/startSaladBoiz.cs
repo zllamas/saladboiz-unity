@@ -9,7 +9,6 @@ public class startSaladBoiz : MonoBehaviour
     //objects
     public GameObject about_info;
     public GameObject about_button;
-    public GameObject restart_button;
     public Sprite about_icon; // set to sprite that shows '?'
     public Sprite about_x; // set to sprite that shows 'x'
 
@@ -33,12 +32,6 @@ public class startSaladBoiz : MonoBehaviour
     public void EnterCity()
     {
         SceneManager.LoadScene("city_scene");
-        restart_button.SetActive(!restart_button.activeSelf);
     }
 
-    public void beingKind()
-    {
-        restart_button.SetActive(!restart_button.activeSelf);
-        SceneManager.LoadScene("opening_scene");
-    }
 }

@@ -1,0 +1,1948 @@
+fileFormatVersion: 2
+guid: 0191527428097b14db6c4dd2e02c0cd9
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: AC_Units
+    100002: ads_geo
+    100004: aiSkyDomeLight1
+    100006: apt_building_geo
+    100008: apt_building_geo1
+    100010: apt_windows
+    100012: asphault
+    100014: b1_frontdoor_geo
+    100016: b1_frontdoor_geo1
+    100018: base_sidewalk
+    100020: bodega_awning
+    100022: bodega_door
+    100024: bodega_exhaust
+    100026: bodega_geo_grp
+    100028: bodega_windows
+    100030: brocklee_car:backseat_geo
+    100032: brocklee_car:bumper_geo
+    100034: brocklee_car:car_ctrl
+    100036: brocklee_car:car_geo_buffergrp
+    100038: brocklee_car:car_geo_grp
+    100040: brocklee_car:dashboard_geo
+    100042: brocklee_car:front_seat_geo
+    100044: brocklee_car:group1
+    100046: brocklee_car:group1 1
+    100048: brocklee_car:group2
+    100050: brocklee_car:group2 1
+    100052: brocklee_car:headlights_geo
+    100054: brocklee_car:left_wheels_geo_grp
+    100056: brocklee_car:mahjong_geo
+    100058: brocklee_car:main_body_geo
+    100060: brocklee_car:mirrors_geo
+    100062: brocklee_car:pCube8
+    100064: brocklee_car:right_wheels_geo_grp
+    100066: brocklee_car:steering_wheel_geo
+    100068: brocklee_car:taillights_geo
+    100070: brocklee_car:wheel_geo
+    100072: brocklee_car:wheel_geo 1
+    100074: brocklee_car:wheel_geo1
+    100076: brocklee_car:wheel_geo1 1
+    100078: buildings
+    100080: //RootNode
+    100082: crosswalk_geo9
+    100084: crosswalk_geo_grp
+    100086: crosswalks
+    100088: CTRL
+    100090: CTRL1
+    100092: CTRL2
+    100094: dirt_geo
+    100096: dirt_geo 1
+    100098: dirt_geo 2
+    100100: dish2_geo
+    100102: dish_geo
+    100104: dish_geo_grp
+    100106: fire_escape_2
+    100108: fire_escape_geo_grp
+    100110: floor1
+    100112: floor2
+    100114: floor3
+    100116: floor4
+    100118: grassbits_geo
+    100120: grassbits_geo 1
+    100122: grassbits_geo 2
+    100124: green_geo
+    100126: green_geo 1
+    100128: group
+    100130: group10
+    100132: group11
+    100134: group12
+    100136: group15
+    100138: group16
+    100140: group17
+    100142: group18
+    100144: group19
+    100146: group20
+    100148: group21
+    100150: group22
+    100152: group23
+    100154: group24
+    100156: group25
+    100158: group26
+    100160: group27
+    100162: group28
+    100164: group29
+    100166: group30
+    100168: group31
+    100170: group32
+    100172: group33
+    100174: group34
+    100176: group35
+    100178: group36
+    100180: group57
+    100182: group58
+    100184: group59
+    100186: group60
+    100188: group61
+    100190: group62
+    100192: group63
+    100194: group65
+    100196: group66
+    100198: group8
+    100200: halalexpress:awning_geo
+    100202: halalexpress:big_wheels_geo
+    100204: halalexpress:break_geo
+    100206: halalexpress:cart_geo
+    100208: halalexpress:drink_rack_geo
+    100210: halalexpress:drinks_geo
+    100212: halalexpress:exhaust1_geo
+    100214: halalexpress:exhaust2_geo
+    100216: halalexpress:exhaust_geo_grp
+    100218: halalexpress:extra_sign_geo
+    100220: halalexpress:left_smwheel_geo
+    100222: halalexpress:left_wheel_geo
+    100224: halalexpress:right_smwheel_geo
+    100226: halalexpress:right_wheel_geo
+    100228: halalexpress:sm_wheels_geo
+    100230: ice_box_geo
+    100232: innerwindoes
+    100234: lights1_geo
+    100236: lights2_geo
+    100238: line_grp
+    100240: mailbox:mailbox_geo
+    100242: outer_windows
+    100244: park_fence
+    100246: park_grass
+    100248: pasted__CTRL
+    100250: pasted__tree2
+    100252: pasted__tree3
+    100254: pasted__tree4
+    100256: pasted__tree5
+    100258: pasted__trees
+    100260: pCube128
+    100262: pCube130
+    100264: pCube131
+    100266: pCube132
+    100268: pCube133
+    100270: pCube141
+    100272: pCube142
+    100274: pCube146
+    100276: pCube147
+    100278: pCube148
+    100280: pCube148 1
+    100282: pCube148 2
+    100284: pCube148 3
+    100286: pCube149
+    100288: pCube149 1
+    100290: pCube149 2
+    100292: pCube149 3
+    100294: pCube150
+    100296: pCube150 1
+    100298: pCube150 2
+    100300: pCube150 3
+    100302: pCube151
+    100304: pCube151 1
+    100306: pCube151 2
+    100308: pCube151 3
+    100310: pCube152
+    100312: pCube152 1
+    100314: pCube152 2
+    100316: pCube153
+    100318: pCube154
+    100320: pCube156
+    100322: pCube157
+    100324: pCube158
+    100326: pCube159
+    100328: pCube160
+    100330: pCube161
+    100332: pCube162
+    100334: pCube2
+    100336: pCube4
+    100338: pCube64
+    100340: pCube67
+    100342: pCube68
+    100344: pCube72
+    100346: pCube73
+    100348: pCube74
+    100350: pCube75
+    100352: pCube76
+    100354: pCube85
+    100356: polySurface1
+    100358: polySurface29
+    100360: pPlane15
+    100362: pPlane16
+    100364: pPlane17
+    100366: pPlane18
+    100368: pPlane19
+    100370: pPlane2
+    100372: red_geo
+    100374: red_geo 1
+    100376: school_building
+    100378: school_building1
+    100380: school_building2
+    100382: school_building3
+    100384: stoop_geo
+    100386: stop_sign:hydrant_geo
+    100388: stop_sign:pCylinder2
+    100390: stop_sign:pCylinder3
+    100392: stop_sign:pCylinder4
+    100394: stop_sign:pCylinder5
+    100396: stop_sign:pCylinder6
+    100398: stoplight:green_geo
+    100400: stoplight:green_geo 1
+    100402: stoplight:lights1_geo
+    100404: stoplight:lights2_geo
+    100406: stoplight:red_geo
+    100408: stoplight:red_geo 1
+    100410: stoplight:stoplight_geo
+    100412: stoplight:trafficlight_geo
+    100414: stoplight:yellow_geo
+    100416: stoplight:yellow_geo 1
+    100418: stoplight_geo
+    100420: street_accents_geo_grp
+    100422: street_lines
+    100424: traffic_lines
+    100426: trafficlight_geo
+    100428: transform18
+    100430: transform2
+    100432: trashcan:trashcan_geo
+    100434: trashcan_geo
+    100436: trashcan_geo1
+    100438: tree1
+    100440: tree1 1
+    100442: tree1 2
+    100444: tree1 3
+    100446: tree10
+    100448: tree11
+    100450: tree12
+    100452: tree13
+    100454: tree14
+    100456: tree15
+    100458: tree16
+    100460: tree17
+    100462: tree18
+    100464: tree19
+    100466: tree2
+    100468: tree2 1
+    100470: tree2 2
+    100472: tree20
+    100474: tree22
+    100476: tree23
+    100478: tree24
+    100480: tree25
+    100482: tree26
+    100484: tree3
+    100486: tree3 1
+    100488: tree3 2
+    100490: tree4
+    100492: tree4 1
+    100494: tree4 2
+    100496: tree8
+    100498: tree:chars_all:LINEUP
+    100500: tree:chars_all:pCube4
+    100502: tree:chars_all:pCube5
+    100504: tree:chars_all:pCube6
+    100506: tree:chars_all:pCube7
+    100508: tree:CTRL
+    100510: tree:dirt_geo
+    100512: tree:grassbits_geo
+    100514: tree:tree1
+    100516: tree:tree2
+    100518: tree:tree3
+    100520: tree:tree4
+    100522: trees
+    100524: window
+    100526: window 1
+    100528: window 2
+    100530: window1
+    100532: window1 1
+    100534: window1 10
+    100536: window1 11
+    100538: window1 12
+    100540: window1 13
+    100542: window1 14
+    100544: window1 15
+    100546: window1 16
+    100548: window1 17
+    100550: window1 18
+    100552: window1 19
+    100554: window1 2
+    100556: window1 20
+    100558: window1 21
+    100560: window1 22
+    100562: window1 23
+    100564: window1 24
+    100566: window1 25
+    100568: window1 26
+    100570: window1 27
+    100572: window1 28
+    100574: window1 29
+    100576: window1 3
+    100578: window1 30
+    100580: window1 31
+    100582: window1 32
+    100584: window1 33
+    100586: window1 34
+    100588: window1 35
+    100590: window1 36
+    100592: window1 37
+    100594: window1 38
+    100596: window1 39
+    100598: window1 4
+    100600: window1 40
+    100602: window1 41
+    100604: window1 42
+    100606: window1 43
+    100608: window1 44
+    100610: window1 45
+    100612: window1 46
+    100614: window1 47
+    100616: window1 48
+    100618: window1 49
+    100620: window1 5
+    100622: window1 50
+    100624: window1 51
+    100626: window1 52
+    100628: window1 53
+    100630: window1 54
+    100632: window1 55
+    100634: window1 56
+    100636: window1 57
+    100638: window1 58
+    100640: window1 59
+    100642: window1 6
+    100644: window1 60
+    100646: window1 61
+    100648: window1 62
+    100650: window1 7
+    100652: window1 8
+    100654: window1 9
+    100656: window14
+    100658: window14 1
+    100660: window14 2
+    100662: window14 3
+    100664: window14 4
+    100666: window15
+    100668: window15 1
+    100670: window15 2
+    100672: window15 3
+    100674: window15 4
+    100676: window16
+    100678: window16 1
+    100680: window16 2
+    100682: window16 3
+    100684: window16 4
+    100686: window17
+    100688: window18
+    100690: window18 1
+    100692: window18 2
+    100694: window18 3
+    100696: window18 4
+    100698: window21
+    100700: window21 1
+    100702: window22
+    100704: window22 1
+    100706: window22 2
+    100708: window22 3
+    100710: window22 4
+    100712: window23
+    100714: window23 1
+    100716: window23 2
+    100718: window23 3
+    100720: window23 4
+    100722: window24
+    100724: window24 1
+    100726: window24 2
+    100728: window24 3
+    100730: window24 4
+    100732: window26
+    100734: window27
+    100736: window28
+    100738: window29
+    100740: window30
+    100742: window30 1
+    100744: window30 2
+    100746: window31
+    100748: window31 1
+    100750: window31 2
+    100752: window32
+    100754: window39
+    100756: window40
+    100758: window43
+    100760: window44
+    100762: window45
+    100764: window46
+    100766: window47
+    100768: window48
+    100770: window49
+    100772: window50
+    100774: window51
+    100776: window_braces
+    100778: world_geo_grp
+    100780: yellow_geo
+    100782: yellow_geo 1
+    400000: AC_Units
+    400002: ads_geo
+    400004: aiSkyDomeLight1
+    400006: apt_building_geo
+    400008: apt_building_geo1
+    400010: apt_windows
+    400012: asphault
+    400014: b1_frontdoor_geo
+    400016: b1_frontdoor_geo1
+    400018: base_sidewalk
+    400020: bodega_awning
+    400022: bodega_door
+    400024: bodega_exhaust
+    400026: bodega_geo_grp
+    400028: bodega_windows
+    400030: brocklee_car:backseat_geo
+    400032: brocklee_car:bumper_geo
+    400034: brocklee_car:car_ctrl
+    400036: brocklee_car:car_geo_buffergrp
+    400038: brocklee_car:car_geo_grp
+    400040: brocklee_car:dashboard_geo
+    400042: brocklee_car:front_seat_geo
+    400044: brocklee_car:group1
+    400046: brocklee_car:group1 1
+    400048: brocklee_car:group2
+    400050: brocklee_car:group2 1
+    400052: brocklee_car:headlights_geo
+    400054: brocklee_car:left_wheels_geo_grp
+    400056: brocklee_car:mahjong_geo
+    400058: brocklee_car:main_body_geo
+    400060: brocklee_car:mirrors_geo
+    400062: brocklee_car:pCube8
+    400064: brocklee_car:right_wheels_geo_grp
+    400066: brocklee_car:steering_wheel_geo
+    400068: brocklee_car:taillights_geo
+    400070: brocklee_car:wheel_geo
+    400072: brocklee_car:wheel_geo 1
+    400074: brocklee_car:wheel_geo1
+    400076: brocklee_car:wheel_geo1 1
+    400078: buildings
+    400080: //RootNode
+    400082: crosswalk_geo9
+    400084: crosswalk_geo_grp
+    400086: crosswalks
+    400088: CTRL
+    400090: CTRL1
+    400092: CTRL2
+    400094: dirt_geo
+    400096: dirt_geo 1
+    400098: dirt_geo 2
+    400100: dish2_geo
+    400102: dish_geo
+    400104: dish_geo_grp
+    400106: fire_escape_2
+    400108: fire_escape_geo_grp
+    400110: floor1
+    400112: floor2
+    400114: floor3
+    400116: floor4
+    400118: grassbits_geo
+    400120: grassbits_geo 1
+    400122: grassbits_geo 2
+    400124: green_geo
+    400126: green_geo 1
+    400128: group
+    400130: group10
+    400132: group11
+    400134: group12
+    400136: group15
+    400138: group16
+    400140: group17
+    400142: group18
+    400144: group19
+    400146: group20
+    400148: group21
+    400150: group22
+    400152: group23
+    400154: group24
+    400156: group25
+    400158: group26
+    400160: group27
+    400162: group28
+    400164: group29
+    400166: group30
+    400168: group31
+    400170: group32
+    400172: group33
+    400174: group34
+    400176: group35
+    400178: group36
+    400180: group57
+    400182: group58
+    400184: group59
+    400186: group60
+    400188: group61
+    400190: group62
+    400192: group63
+    400194: group65
+    400196: group66
+    400198: group8
+    400200: halalexpress:awning_geo
+    400202: halalexpress:big_wheels_geo
+    400204: halalexpress:break_geo
+    400206: halalexpress:cart_geo
+    400208: halalexpress:drink_rack_geo
+    400210: halalexpress:drinks_geo
+    400212: halalexpress:exhaust1_geo
+    400214: halalexpress:exhaust2_geo
+    400216: halalexpress:exhaust_geo_grp
+    400218: halalexpress:extra_sign_geo
+    400220: halalexpress:left_smwheel_geo
+    400222: halalexpress:left_wheel_geo
+    400224: halalexpress:right_smwheel_geo
+    400226: halalexpress:right_wheel_geo
+    400228: halalexpress:sm_wheels_geo
+    400230: ice_box_geo
+    400232: innerwindoes
+    400234: lights1_geo
+    400236: lights2_geo
+    400238: line_grp
+    400240: mailbox:mailbox_geo
+    400242: outer_windows
+    400244: park_fence
+    400246: park_grass
+    400248: pasted__CTRL
+    400250: pasted__tree2
+    400252: pasted__tree3
+    400254: pasted__tree4
+    400256: pasted__tree5
+    400258: pasted__trees
+    400260: pCube128
+    400262: pCube130
+    400264: pCube131
+    400266: pCube132
+    400268: pCube133
+    400270: pCube141
+    400272: pCube142
+    400274: pCube146
+    400276: pCube147
+    400278: pCube148
+    400280: pCube148 1
+    400282: pCube148 2
+    400284: pCube148 3
+    400286: pCube149
+    400288: pCube149 1
+    400290: pCube149 2
+    400292: pCube149 3
+    400294: pCube150
+    400296: pCube150 1
+    400298: pCube150 2
+    400300: pCube150 3
+    400302: pCube151
+    400304: pCube151 1
+    400306: pCube151 2
+    400308: pCube151 3
+    400310: pCube152
+    400312: pCube152 1
+    400314: pCube152 2
+    400316: pCube153
+    400318: pCube154
+    400320: pCube156
+    400322: pCube157
+    400324: pCube158
+    400326: pCube159
+    400328: pCube160
+    400330: pCube161
+    400332: pCube162
+    400334: pCube2
+    400336: pCube4
+    400338: pCube64
+    400340: pCube67
+    400342: pCube68
+    400344: pCube72
+    400346: pCube73
+    400348: pCube74
+    400350: pCube75
+    400352: pCube76
+    400354: pCube85
+    400356: polySurface1
+    400358: polySurface29
+    400360: pPlane15
+    400362: pPlane16
+    400364: pPlane17
+    400366: pPlane18
+    400368: pPlane19
+    400370: pPlane2
+    400372: red_geo
+    400374: red_geo 1
+    400376: school_building
+    400378: school_building1
+    400380: school_building2
+    400382: school_building3
+    400384: stoop_geo
+    400386: stop_sign:hydrant_geo
+    400388: stop_sign:pCylinder2
+    400390: stop_sign:pCylinder3
+    400392: stop_sign:pCylinder4
+    400394: stop_sign:pCylinder5
+    400396: stop_sign:pCylinder6
+    400398: stoplight:green_geo
+    400400: stoplight:green_geo 1
+    400402: stoplight:lights1_geo
+    400404: stoplight:lights2_geo
+    400406: stoplight:red_geo
+    400408: stoplight:red_geo 1
+    400410: stoplight:stoplight_geo
+    400412: stoplight:trafficlight_geo
+    400414: stoplight:yellow_geo
+    400416: stoplight:yellow_geo 1
+    400418: stoplight_geo
+    400420: street_accents_geo_grp
+    400422: street_lines
+    400424: traffic_lines
+    400426: trafficlight_geo
+    400428: transform18
+    400430: transform2
+    400432: trashcan:trashcan_geo
+    400434: trashcan_geo
+    400436: trashcan_geo1
+    400438: tree1
+    400440: tree1 1
+    400442: tree1 2
+    400444: tree1 3
+    400446: tree10
+    400448: tree11
+    400450: tree12
+    400452: tree13
+    400454: tree14
+    400456: tree15
+    400458: tree16
+    400460: tree17
+    400462: tree18
+    400464: tree19
+    400466: tree2
+    400468: tree2 1
+    400470: tree2 2
+    400472: tree20
+    400474: tree22
+    400476: tree23
+    400478: tree24
+    400480: tree25
+    400482: tree26
+    400484: tree3
+    400486: tree3 1
+    400488: tree3 2
+    400490: tree4
+    400492: tree4 1
+    400494: tree4 2
+    400496: tree8
+    400498: tree:chars_all:LINEUP
+    400500: tree:chars_all:pCube4
+    400502: tree:chars_all:pCube5
+    400504: tree:chars_all:pCube6
+    400506: tree:chars_all:pCube7
+    400508: tree:CTRL
+    400510: tree:dirt_geo
+    400512: tree:grassbits_geo
+    400514: tree:tree1
+    400516: tree:tree2
+    400518: tree:tree3
+    400520: tree:tree4
+    400522: trees
+    400524: window
+    400526: window 1
+    400528: window 2
+    400530: window1
+    400532: window1 1
+    400534: window1 10
+    400536: window1 11
+    400538: window1 12
+    400540: window1 13
+    400542: window1 14
+    400544: window1 15
+    400546: window1 16
+    400548: window1 17
+    400550: window1 18
+    400552: window1 19
+    400554: window1 2
+    400556: window1 20
+    400558: window1 21
+    400560: window1 22
+    400562: window1 23
+    400564: window1 24
+    400566: window1 25
+    400568: window1 26
+    400570: window1 27
+    400572: window1 28
+    400574: window1 29
+    400576: window1 3
+    400578: window1 30
+    400580: window1 31
+    400582: window1 32
+    400584: window1 33
+    400586: window1 34
+    400588: window1 35
+    400590: window1 36
+    400592: window1 37
+    400594: window1 38
+    400596: window1 39
+    400598: window1 4
+    400600: window1 40
+    400602: window1 41
+    400604: window1 42
+    400606: window1 43
+    400608: window1 44
+    400610: window1 45
+    400612: window1 46
+    400614: window1 47
+    400616: window1 48
+    400618: window1 49
+    400620: window1 5
+    400622: window1 50
+    400624: window1 51
+    400626: window1 52
+    400628: window1 53
+    400630: window1 54
+    400632: window1 55
+    400634: window1 56
+    400636: window1 57
+    400638: window1 58
+    400640: window1 59
+    400642: window1 6
+    400644: window1 60
+    400646: window1 61
+    400648: window1 62
+    400650: window1 7
+    400652: window1 8
+    400654: window1 9
+    400656: window14
+    400658: window14 1
+    400660: window14 2
+    400662: window14 3
+    400664: window14 4
+    400666: window15
+    400668: window15 1
+    400670: window15 2
+    400672: window15 3
+    400674: window15 4
+    400676: window16
+    400678: window16 1
+    400680: window16 2
+    400682: window16 3
+    400684: window16 4
+    400686: window17
+    400688: window18
+    400690: window18 1
+    400692: window18 2
+    400694: window18 3
+    400696: window18 4
+    400698: window21
+    400700: window21 1
+    400702: window22
+    400704: window22 1
+    400706: window22 2
+    400708: window22 3
+    400710: window22 4
+    400712: window23
+    400714: window23 1
+    400716: window23 2
+    400718: window23 3
+    400720: window23 4
+    400722: window24
+    400724: window24 1
+    400726: window24 2
+    400728: window24 3
+    400730: window24 4
+    400732: window26
+    400734: window27
+    400736: window28
+    400738: window29
+    400740: window30
+    400742: window30 1
+    400744: window30 2
+    400746: window31
+    400748: window31 1
+    400750: window31 2
+    400752: window32
+    400754: window39
+    400756: window40
+    400758: window43
+    400760: window44
+    400762: window45
+    400764: window46
+    400766: window47
+    400768: window48
+    400770: window49
+    400772: window50
+    400774: window51
+    400776: window_braces
+    400778: world_geo_grp
+    400780: yellow_geo
+    400782: yellow_geo 1
+    2100000: asphalt_texture
+    2100002: lambert15
+    2100004: windowpane_color1
+    2100006: lambert7
+    2100008: lambert1
+    2100010: lambert14
+    2100012: lambert16
+    2100014: tree_tree1_texture
+    2100016: tree_tree3_texture
+    2100018: tree_tree2_texture
+    2100020: white
+    2100022: lambert17
+    2100024: lambert18
+    2100026: icee_cart__white_texture
+    2100028: lambert6
+    2100030: lambert4
+    2100032: icee_cart__teal_texture
+    2100034: lambert19
+    2100036: lambert5
+    2100038: lambert20
+    2100040: icee_cart__blue_texture
+    2100042: hotdogstand_lambert11
+    2100044: lambert3
+    2100046: darker_orange
+    2100048: darker_orange1
+    2100050: windowpane_color
+    2100052: hotdogstand_foodcart_umbrella2_umbrella_color2_texture
+    2100054: hotdogstand_foodcart_umbrella1_umbrella_color2_texture
+    2100056: lambert2
+    2100058: tree_bark1_texture
+    2100060: tree_bark2_texture
+    2100062: tree_lambert4
+    2100064: tree21_tree2_texture
+    2100066: tree21_tree1_texture
+    2100068: tree21_tree3_texture
+    2100070: tree21_bark2_texture
+    2100072: brocklee_car_wheel_asset_white_texture
+    2100074: brocklee_car_lambert6
+    2100076: brocklee_car_car_main_texture
+    2100078: brocklee_car_window_texture
+    2100080: brocklee_car_taillight_texture
+    2100082: brocklee_car_headlight_texture
+    2100084: brocklee_car_bumper_texture
+    2100086: brocklee_car_lambert7
+    2100088: brocklee_car_wheel_asset_black_texture
+    2100090: tree_concrete_texture
+    2100092: stoplight_stoplight_texture
+    2100094: stoplight_light_red_texture
+    2100096: stoplight_light_green_texture
+    2100098: stoplight_light_yellow_texture
+    2100100: stop_sign_lambert7
+    2100102: stop_sign_lambert6
+    2100104: mailbox_mailbox_texture
+    2100106: halalexpress_cart_texture
+    2100108: halalexpress_accent_texture
+    2100110: halalexpress_shadow_texture
+    2100112: halalexpress_white_texture
+    2100114: halalexpress_can_asset_can_color_texture
+    2100116: halalexpress_bottle_asset_bottle_color_texture
+    2100118: halalexpress_bottle_asset_rim_and_cap_texture
+    2100120: halalexpress_bottle_asset_accent_color_texture
+    2100122: halalexpress_black_texture
+    2100124: trashcan_stopsign_green_texture
+    2300000: ads_geo
+    2300002: apt_building_geo
+    2300004: apt_building_geo1
+    2300006: asphault
+    2300008: b1_frontdoor_geo
+    2300010: b1_frontdoor_geo1
+    2300012: base_sidewalk
+    2300014: bodega_awning
+    2300016: bodega_door
+    2300018: bodega_exhaust
+    2300020: bodega_windows
+    2300022: brocklee_car:backseat_geo
+    2300024: brocklee_car:bumper_geo
+    2300026: brocklee_car:dashboard_geo
+    2300028: brocklee_car:front_seat_geo
+    2300030: brocklee_car:headlights_geo
+    2300032: brocklee_car:mahjong_geo
+    2300034: brocklee_car:main_body_geo
+    2300036: brocklee_car:mirrors_geo
+    2300038: brocklee_car:pCube8
+    2300040: brocklee_car:steering_wheel_geo
+    2300042: brocklee_car:taillights_geo
+    2300044: brocklee_car:wheel_geo
+    2300046: brocklee_car:wheel_geo 1
+    2300048: brocklee_car:wheel_geo1
+    2300050: brocklee_car:wheel_geo1 1
+    2300052: crosswalks
+    2300054: dirt_geo
+    2300056: dirt_geo 1
+    2300058: dirt_geo 2
+    2300060: dish2_geo
+    2300062: dish_geo
+    2300064: fire_escape_2
+    2300066: floor1
+    2300068: floor2
+    2300070: floor3
+    2300072: floor4
+    2300074: grassbits_geo
+    2300076: grassbits_geo 1
+    2300078: grassbits_geo 2
+    2300080: green_geo
+    2300082: green_geo 1
+    2300084: group15
+    2300086: group16
+    2300088: group17
+    2300090: group18
+    2300092: group19
+    2300094: group20
+    2300096: group21
+    2300098: group22
+    2300100: group23
+    2300102: group24
+    2300104: group25
+    2300106: group26
+    2300108: group27
+    2300110: group28
+    2300112: group29
+    2300114: group30
+    2300116: group31
+    2300118: group32
+    2300120: group33
+    2300122: group34
+    2300124: group35
+    2300126: group36
+    2300128: group58
+    2300130: group59
+    2300132: group60
+    2300134: group61
+    2300136: group62
+    2300138: group63
+    2300140: halalexpress:awning_geo
+    2300142: halalexpress:break_geo
+    2300144: halalexpress:cart_geo
+    2300146: halalexpress:drink_rack_geo
+    2300148: halalexpress:drinks_geo
+    2300150: halalexpress:exhaust1_geo
+    2300152: halalexpress:exhaust2_geo
+    2300154: halalexpress:extra_sign_geo
+    2300156: halalexpress:left_smwheel_geo
+    2300158: halalexpress:left_wheel_geo
+    2300160: halalexpress:right_smwheel_geo
+    2300162: halalexpress:right_wheel_geo
+    2300164: ice_box_geo
+    2300166: lights1_geo
+    2300168: lights2_geo
+    2300170: mailbox:mailbox_geo
+    2300172: park_fence
+    2300174: park_grass
+    2300176: pasted__tree2
+    2300178: pasted__tree3
+    2300180: pasted__tree4
+    2300182: pasted__tree5
+    2300184: pCube128
+    2300186: pCube130
+    2300188: pCube131
+    2300190: pCube132
+    2300192: pCube133
+    2300194: pCube141
+    2300196: pCube142
+    2300198: pCube146
+    2300200: pCube147
+    2300202: pCube148
+    2300204: pCube148 1
+    2300206: pCube148 2
+    2300208: pCube148 3
+    2300210: pCube149
+    2300212: pCube149 1
+    2300214: pCube149 2
+    2300216: pCube149 3
+    2300218: pCube150
+    2300220: pCube150 1
+    2300222: pCube150 2
+    2300224: pCube150 3
+    2300226: pCube151
+    2300228: pCube151 1
+    2300230: pCube151 2
+    2300232: pCube151 3
+    2300234: pCube152
+    2300236: pCube152 1
+    2300238: pCube152 2
+    2300240: pCube153
+    2300242: pCube154
+    2300244: pCube156
+    2300246: pCube157
+    2300248: pCube158
+    2300250: pCube159
+    2300252: pCube160
+    2300254: pCube161
+    2300256: pCube162
+    2300258: pCube2
+    2300260: pCube4
+    2300262: pCube64
+    2300264: pCube67
+    2300266: pCube68
+    2300268: pCube72
+    2300270: pCube73
+    2300272: pCube74
+    2300274: pCube75
+    2300276: pCube76
+    2300278: pCube85
+    2300280: polySurface1
+    2300282: polySurface29
+    2300284: red_geo
+    2300286: red_geo 1
+    2300288: school_building3
+    2300290: stoop_geo
+    2300292: stop_sign:hydrant_geo
+    2300294: stop_sign:pCylinder2
+    2300296: stop_sign:pCylinder3
+    2300298: stop_sign:pCylinder4
+    2300300: stop_sign:pCylinder5
+    2300302: stop_sign:pCylinder6
+    2300304: stoplight:green_geo
+    2300306: stoplight:green_geo 1
+    2300308: stoplight:lights1_geo
+    2300310: stoplight:lights2_geo
+    2300312: stoplight:red_geo
+    2300314: stoplight:red_geo 1
+    2300316: stoplight:stoplight_geo
+    2300318: stoplight:trafficlight_geo
+    2300320: stoplight:yellow_geo
+    2300322: stoplight:yellow_geo 1
+    2300324: stoplight_geo
+    2300326: traffic_lines
+    2300328: trafficlight_geo
+    2300330: trashcan:trashcan_geo
+    2300332: trashcan_geo
+    2300334: trashcan_geo1
+    2300336: tree1
+    2300338: tree1 1
+    2300340: tree1 2
+    2300342: tree1 3
+    2300344: tree10
+    2300346: tree11
+    2300348: tree12
+    2300350: tree13
+    2300352: tree14
+    2300354: tree15
+    2300356: tree16
+    2300358: tree17
+    2300360: tree18
+    2300362: tree19
+    2300364: tree2
+    2300366: tree2 1
+    2300368: tree2 2
+    2300370: tree20
+    2300372: tree22
+    2300374: tree23
+    2300376: tree24
+    2300378: tree25
+    2300380: tree26
+    2300382: tree3
+    2300384: tree3 1
+    2300386: tree3 2
+    2300388: tree4
+    2300390: tree4 1
+    2300392: tree4 2
+    2300394: tree8
+    2300396: tree:chars_all:pCube4
+    2300398: tree:chars_all:pCube5
+    2300400: tree:chars_all:pCube6
+    2300402: tree:chars_all:pCube7
+    2300404: tree:dirt_geo
+    2300406: tree:grassbits_geo
+    2300408: tree:tree1
+    2300410: tree:tree2
+    2300412: tree:tree3
+    2300414: tree:tree4
+    2300416: window
+    2300418: window 1
+    2300420: window 2
+    2300422: window1
+    2300424: window1 1
+    2300426: window1 10
+    2300428: window1 11
+    2300430: window1 12
+    2300432: window1 13
+    2300434: window1 14
+    2300436: window1 15
+    2300438: window1 16
+    2300440: window1 17
+    2300442: window1 18
+    2300444: window1 19
+    2300446: window1 2
+    2300448: window1 20
+    2300450: window1 21
+    2300452: window1 22
+    2300454: window1 23
+    2300456: window1 24
+    2300458: window1 25
+    2300460: window1 26
+    2300462: window1 27
+    2300464: window1 28
+    2300466: window1 29
+    2300468: window1 3
+    2300470: window1 30
+    2300472: window1 31
+    2300474: window1 32
+    2300476: window1 33
+    2300478: window1 34
+    2300480: window1 35
+    2300482: window1 36
+    2300484: window1 37
+    2300486: window1 38
+    2300488: window1 39
+    2300490: window1 4
+    2300492: window1 40
+    2300494: window1 41
+    2300496: window1 42
+    2300498: window1 43
+    2300500: window1 44
+    2300502: window1 45
+    2300504: window1 46
+    2300506: window1 47
+    2300508: window1 48
+    2300510: window1 49
+    2300512: window1 5
+    2300514: window1 50
+    2300516: window1 51
+    2300518: window1 52
+    2300520: window1 53
+    2300522: window1 54
+    2300524: window1 55
+    2300526: window1 56
+    2300528: window1 57
+    2300530: window1 58
+    2300532: window1 59
+    2300534: window1 6
+    2300536: window1 60
+    2300538: window1 61
+    2300540: window1 62
+    2300542: window1 7
+    2300544: window1 8
+    2300546: window1 9
+    2300548: window14
+    2300550: window14 1
+    2300552: window14 2
+    2300554: window14 3
+    2300556: window14 4
+    2300558: window15
+    2300560: window15 1
+    2300562: window15 2
+    2300564: window15 3
+    2300566: window15 4
+    2300568: window16
+    2300570: window16 1
+    2300572: window16 2
+    2300574: window16 3
+    2300576: window16 4
+    2300578: window17
+    2300580: window18
+    2300582: window18 1
+    2300584: window18 2
+    2300586: window18 3
+    2300588: window18 4
+    2300590: window21
+    2300592: window21 1
+    2300594: window22
+    2300596: window22 1
+    2300598: window22 2
+    2300600: window22 3
+    2300602: window22 4
+    2300604: window23
+    2300606: window23 1
+    2300608: window23 2
+    2300610: window23 3
+    2300612: window23 4
+    2300614: window24
+    2300616: window24 1
+    2300618: window24 2
+    2300620: window24 3
+    2300622: window24 4
+    2300624: window26
+    2300626: window27
+    2300628: window28
+    2300630: window29
+    2300632: window30
+    2300634: window30 1
+    2300636: window30 2
+    2300638: window31
+    2300640: window31 1
+    2300642: window31 2
+    2300644: window32
+    2300646: window39
+    2300648: window40
+    2300650: window43
+    2300652: window44
+    2300654: window45
+    2300656: window46
+    2300658: window47
+    2300660: window48
+    2300662: window49
+    2300664: window50
+    2300666: window51
+    2300668: yellow_geo
+    2300670: yellow_geo 1
+    3300000: ads_geo
+    3300002: apt_building_geo
+    3300004: apt_building_geo1
+    3300006: asphault
+    3300008: b1_frontdoor_geo
+    3300010: b1_frontdoor_geo1
+    3300012: base_sidewalk
+    3300014: bodega_awning
+    3300016: bodega_door
+    3300018: bodega_exhaust
+    3300020: bodega_windows
+    3300022: brocklee_car:backseat_geo
+    3300024: brocklee_car:bumper_geo
+    3300026: brocklee_car:dashboard_geo
+    3300028: brocklee_car:front_seat_geo
+    3300030: brocklee_car:headlights_geo
+    3300032: brocklee_car:mahjong_geo
+    3300034: brocklee_car:main_body_geo
+    3300036: brocklee_car:mirrors_geo
+    3300038: brocklee_car:pCube8
+    3300040: brocklee_car:steering_wheel_geo
+    3300042: brocklee_car:taillights_geo
+    3300044: brocklee_car:wheel_geo
+    3300046: brocklee_car:wheel_geo 1
+    3300048: brocklee_car:wheel_geo1
+    3300050: brocklee_car:wheel_geo1 1
+    3300052: crosswalks
+    3300054: dirt_geo
+    3300056: dirt_geo 1
+    3300058: dirt_geo 2
+    3300060: dish2_geo
+    3300062: dish_geo
+    3300064: fire_escape_2
+    3300066: floor1
+    3300068: floor2
+    3300070: floor3
+    3300072: floor4
+    3300074: grassbits_geo
+    3300076: grassbits_geo 1
+    3300078: grassbits_geo 2
+    3300080: green_geo
+    3300082: green_geo 1
+    3300084: group15
+    3300086: group16
+    3300088: group17
+    3300090: group18
+    3300092: group19
+    3300094: group20
+    3300096: group21
+    3300098: group22
+    3300100: group23
+    3300102: group24
+    3300104: group25
+    3300106: group26
+    3300108: group27
+    3300110: group28
+    3300112: group29
+    3300114: group30
+    3300116: group31
+    3300118: group32
+    3300120: group33
+    3300122: group34
+    3300124: group35
+    3300126: group36
+    3300128: group58
+    3300130: group59
+    3300132: group60
+    3300134: group61
+    3300136: group62
+    3300138: group63
+    3300140: halalexpress:awning_geo
+    3300142: halalexpress:break_geo
+    3300144: halalexpress:cart_geo
+    3300146: halalexpress:drink_rack_geo
+    3300148: halalexpress:drinks_geo
+    3300150: halalexpress:exhaust1_geo
+    3300152: halalexpress:exhaust2_geo
+    3300154: halalexpress:extra_sign_geo
+    3300156: halalexpress:left_smwheel_geo
+    3300158: halalexpress:left_wheel_geo
+    3300160: halalexpress:right_smwheel_geo
+    3300162: halalexpress:right_wheel_geo
+    3300164: ice_box_geo
+    3300166: lights1_geo
+    3300168: lights2_geo
+    3300170: mailbox:mailbox_geo
+    3300172: park_fence
+    3300174: park_grass
+    3300176: pasted__tree2
+    3300178: pasted__tree3
+    3300180: pasted__tree4
+    3300182: pasted__tree5
+    3300184: pCube128
+    3300186: pCube130
+    3300188: pCube131
+    3300190: pCube132
+    3300192: pCube133
+    3300194: pCube141
+    3300196: pCube142
+    3300198: pCube146
+    3300200: pCube147
+    3300202: pCube148
+    3300204: pCube148 1
+    3300206: pCube148 2
+    3300208: pCube148 3
+    3300210: pCube149
+    3300212: pCube149 1
+    3300214: pCube149 2
+    3300216: pCube149 3
+    3300218: pCube150
+    3300220: pCube150 1
+    3300222: pCube150 2
+    3300224: pCube150 3
+    3300226: pCube151
+    3300228: pCube151 1
+    3300230: pCube151 2
+    3300232: pCube151 3
+    3300234: pCube152
+    3300236: pCube152 1
+    3300238: pCube152 2
+    3300240: pCube153
+    3300242: pCube154
+    3300244: pCube156
+    3300246: pCube157
+    3300248: pCube158
+    3300250: pCube159
+    3300252: pCube160
+    3300254: pCube161
+    3300256: pCube162
+    3300258: pCube2
+    3300260: pCube4
+    3300262: pCube64
+    3300264: pCube67
+    3300266: pCube68
+    3300268: pCube72
+    3300270: pCube73
+    3300272: pCube74
+    3300274: pCube75
+    3300276: pCube76
+    3300278: pCube85
+    3300280: polySurface1
+    3300282: polySurface29
+    3300284: red_geo
+    3300286: red_geo 1
+    3300288: school_building3
+    3300290: stoop_geo
+    3300292: stop_sign:hydrant_geo
+    3300294: stop_sign:pCylinder2
+    3300296: stop_sign:pCylinder3
+    3300298: stop_sign:pCylinder4
+    3300300: stop_sign:pCylinder5
+    3300302: stop_sign:pCylinder6
+    3300304: stoplight:green_geo
+    3300306: stoplight:green_geo 1
+    3300308: stoplight:lights1_geo
+    3300310: stoplight:lights2_geo
+    3300312: stoplight:red_geo
+    3300314: stoplight:red_geo 1
+    3300316: stoplight:stoplight_geo
+    3300318: stoplight:trafficlight_geo
+    3300320: stoplight:yellow_geo
+    3300322: stoplight:yellow_geo 1
+    3300324: stoplight_geo
+    3300326: traffic_lines
+    3300328: trafficlight_geo
+    3300330: trashcan:trashcan_geo
+    3300332: trashcan_geo
+    3300334: trashcan_geo1
+    3300336: tree1
+    3300338: tree1 1
+    3300340: tree1 2
+    3300342: tree1 3
+    3300344: tree10
+    3300346: tree11
+    3300348: tree12
+    3300350: tree13
+    3300352: tree14
+    3300354: tree15
+    3300356: tree16
+    3300358: tree17
+    3300360: tree18
+    3300362: tree19
+    3300364: tree2
+    3300366: tree2 1
+    3300368: tree2 2
+    3300370: tree20
+    3300372: tree22
+    3300374: tree23
+    3300376: tree24
+    3300378: tree25
+    3300380: tree26
+    3300382: tree3
+    3300384: tree3 1
+    3300386: tree3 2
+    3300388: tree4
+    3300390: tree4 1
+    3300392: tree4 2
+    3300394: tree8
+    3300396: tree:chars_all:pCube4
+    3300398: tree:chars_all:pCube5
+    3300400: tree:chars_all:pCube6
+    3300402: tree:chars_all:pCube7
+    3300404: tree:dirt_geo
+    3300406: tree:grassbits_geo
+    3300408: tree:tree1
+    3300410: tree:tree2
+    3300412: tree:tree3
+    3300414: tree:tree4
+    3300416: window
+    3300418: window 1
+    3300420: window 2
+    3300422: window1
+    3300424: window1 1
+    3300426: window1 10
+    3300428: window1 11
+    3300430: window1 12
+    3300432: window1 13
+    3300434: window1 14
+    3300436: window1 15
+    3300438: window1 16
+    3300440: window1 17
+    3300442: window1 18
+    3300444: window1 19
+    3300446: window1 2
+    3300448: window1 20
+    3300450: window1 21
+    3300452: window1 22
+    3300454: window1 23
+    3300456: window1 24
+    3300458: window1 25
+    3300460: window1 26
+    3300462: window1 27
+    3300464: window1 28
+    3300466: window1 29
+    3300468: window1 3
+    3300470: window1 30
+    3300472: window1 31
+    3300474: window1 32
+    3300476: window1 33
+    3300478: window1 34
+    3300480: window1 35
+    3300482: window1 36
+    3300484: window1 37
+    3300486: window1 38
+    3300488: window1 39
+    3300490: window1 4
+    3300492: window1 40
+    3300494: window1 41
+    3300496: window1 42
+    3300498: window1 43
+    3300500: window1 44
+    3300502: window1 45
+    3300504: window1 46
+    3300506: window1 47
+    3300508: window1 48
+    3300510: window1 49
+    3300512: window1 5
+    3300514: window1 50
+    3300516: window1 51
+    3300518: window1 52
+    3300520: window1 53
+    3300522: window1 54
+    3300524: window1 55
+    3300526: window1 56
+    3300528: window1 57
+    3300530: window1 58
+    3300532: window1 59
+    3300534: window1 6
+    3300536: window1 60
+    3300538: window1 61
+    3300540: window1 62
+    3300542: window1 7
+    3300544: window1 8
+    3300546: window1 9
+    3300548: window14
+    3300550: window14 1
+    3300552: window14 2
+    3300554: window14 3
+    3300556: window14 4
+    3300558: window15
+    3300560: window15 1
+    3300562: window15 2
+    3300564: window15 3
+    3300566: window15 4
+    3300568: window16
+    3300570: window16 1
+    3300572: window16 2
+    3300574: window16 3
+    3300576: window16 4
+    3300578: window17
+    3300580: window18
+    3300582: window18 1
+    3300584: window18 2
+    3300586: window18 3
+    3300588: window18 4
+    3300590: window21
+    3300592: window21 1
+    3300594: window22
+    3300596: window22 1
+    3300598: window22 2
+    3300600: window22 3
+    3300602: window22 4
+    3300604: window23
+    3300606: window23 1
+    3300608: window23 2
+    3300610: window23 3
+    3300612: window23 4
+    3300614: window24
+    3300616: window24 1
+    3300618: window24 2
+    3300620: window24 3
+    3300622: window24 4
+    3300624: window26
+    3300626: window27
+    3300628: window28
+    3300630: window29
+    3300632: window30
+    3300634: window30 1
+    3300636: window30 2
+    3300638: window31
+    3300640: window31 1
+    3300642: window31 2
+    3300644: window32
+    3300646: window39
+    3300648: window40
+    3300650: window43
+    3300652: window44
+    3300654: window45
+    3300656: window46
+    3300658: window47
+    3300660: window48
+    3300662: window49
+    3300664: window50
+    3300666: window51
+    3300668: yellow_geo
+    3300670: yellow_geo 1
+    4300000: polySurface29
+    4300002: asphault
+    4300004: school_building3
+    4300006: pCube4
+    4300008: pCube152
+    4300010: floor1
+    4300012: pCube2
+    4300014: pCube146
+    4300016: pCube150
+    4300018: pCube148
+    4300020: pCube147
+    4300022: pCube151
+    4300024: pCube149
+    4300026: pCube154
+    4300028: pCube151
+    4300030: pCube149
+    4300032: floor2
+    4300034: floor3
+    4300036: floor4
+    4300038: pCube156
+    4300040: pCube150
+    4300042: pCube148
+    4300044: pCube157
+    4300046: pCube152
+    4300048: pCube158
+    4300050: pCube151
+    4300052: pCube149
+    4300054: pCube159
+    4300056: pCube151
+    4300058: pCube149
+    4300060: pCube160
+    4300062: pCube150
+    4300064: pCube148
+    4300066: pCube161
+    4300068: pCube152
+    4300070: pCube162
+    4300072: pCube150
+    4300074: pCube148
+    4300076: apt_building_geo
+    4300078: ads_geo
+    4300080: stoop_geo
+    4300082: bodega_door
+    4300084: ice_box_geo
+    4300086: bodega_exhaust
+    4300088: bodega_windows
+    4300090: bodega_awning
+    4300092: dish2_geo
+    4300094: dish_geo
+    4300096: fire_escape_2
+    4300098: polySurface1
+    4300100: b1_frontdoor_geo
+    4300102: window40
+    4300104: window1
+    4300106: window14
+    4300108: window1
+    4300110: window15
+    4300112: window1
+    4300114: window16
+    4300116: window1
+    4300118: window21
+    4300120: window18
+    4300122: window1
+    4300124: window1
+    4300126: window22
+    4300128: window1
+    4300130: window23
+    4300132: window1
+    4300134: window24
+    4300136: window1
+    4300138: window45
+    4300140: window18
+    4300142: window1
+    4300144: window1
+    4300146: window22
+    4300148: window1
+    4300150: window23
+    4300152: window1
+    4300154: window24
+    4300156: window1
+    4300158: window43
+    4300160: window1
+    4300162: window14
+    4300164: window1
+    4300166: window15
+    4300168: window1
+    4300170: window16
+    4300172: window1
+    4300174: window17
+    4300176: window1
+    4300178: window14
+    4300180: window1
+    4300182: window15
+    4300184: window1
+    4300186: window16
+    4300188: window1
+    4300190: window21
+    4300192: window18
+    4300194: window1
+    4300196: window1
+    4300198: window22
+    4300200: window1
+    4300202: window23
+    4300204: window1
+    4300206: window24
+    4300208: window1
+    4300210: window46
+    4300212: window18
+    4300214: window1
+    4300216: window1
+    4300218: window22
+    4300220: window1
+    4300222: window23
+    4300224: window1
+    4300226: window24
+    4300228: window1
+    4300230: window47
+    4300232: window1
+    4300234: window14
+    4300236: window1
+    4300238: window15
+    4300240: window1
+    4300242: window16
+    4300244: window1
+    4300246: window48
+    4300248: window18
+    4300250: window1
+    4300252: window1
+    4300254: window22
+    4300256: window1
+    4300258: window23
+    4300260: window1
+    4300262: window24
+    4300264: window1
+    4300266: window49
+    4300268: window1
+    4300270: window14
+    4300272: window1
+    4300274: window15
+    4300276: window1
+    4300278: window16
+    4300280: window1
+    4300282: window32
+    4300284: window1
+    4300286: window
+    4300288: window1
+    4300290: window30
+    4300292: window1
+    4300294: window31
+    4300296: window1
+    4300298: window39
+    4300300: window1
+    4300302: window
+    4300304: window1
+    4300306: window30
+    4300308: window1
+    4300310: window31
+    4300312: window1
+    4300314: window44
+    4300316: window1
+    4300318: window
+    4300320: window1
+    4300322: window30
+    4300324: window1
+    4300326: window31
+    4300328: window1
+    4300330: window50
+    4300332: window1
+    4300334: window29
+    4300336: window1
+    4300338: window27
+    4300340: window1
+    4300342: window26
+    4300344: window1
+    4300346: window28
+    4300348: window1
+    4300350: window51
+    4300352: window1
+    4300354: pCube68
+    4300356: pCube67
+    4300358: pCube64
+    4300360: pCube72
+    4300362: pCube73
+    4300364: pCube74
+    4300366: pCube75
+    4300368: pCube76
+    4300370: pCube85
+    4300372: pCube128
+    4300374: pCube130
+    4300376: pCube131
+    4300378: pCube132
+    4300380: pCube133
+    4300382: group36
+    4300384: group35
+    4300386: group30
+    4300388: group29
+    4300390: group27
+    4300392: group26
+    4300394: group25
+    4300396: group24
+    4300398: group23
+    4300400: group22
+    4300402: group21
+    4300404: group20
+    4300406: group19
+    4300408: group18
+    4300410: group17
+    4300412: group16
+    4300414: group15
+    4300416: group28
+    4300418: group32
+    4300420: group33
+    4300422: group31
+    4300424: group34
+    4300426: group58
+    4300428: group59
+    4300430: group60
+    4300432: group61
+    4300434: group62
+    4300436: group63
+    4300438: pCube142
+    4300440: pCube141
+    4300442: b1_frontdoor_geo1
+    4300444: pCube153
+    4300446: apt_building_geo1
+    4300448: park_fence
+    4300450: tree:chars_all:pCube7
+    4300452: tree:chars_all:pCube6
+    4300454: tree:chars_all:pCube5
+    4300456: tree:chars_all:pCube4
+    4300458: tree1
+    4300460: tree8
+    4300462: tree10
+    4300464: tree11
+    4300466: tree12
+    4300468: tree14
+    4300470: tree13
+    4300472: tree15
+    4300474: tree1
+    4300476: tree2
+    4300478: tree3
+    4300480: tree4
+    4300482: dirt_geo
+    4300484: grassbits_geo
+    4300486: tree1
+    4300488: tree2
+    4300490: tree3
+    4300492: tree4
+    4300494: dirt_geo
+    4300496: grassbits_geo
+    4300498: tree1
+    4300500: tree2
+    4300502: tree3
+    4300504: tree4
+    4300506: dirt_geo
+    4300508: grassbits_geo
+    4300510: tree:tree1
+    4300512: tree:tree2
+    4300514: tree:tree3
+    4300516: tree:tree4
+    4300518: tree:dirt_geo
+    4300520: tree:grassbits_geo
+    4300522: tree16
+    4300524: tree17
+    4300526: tree18
+    4300528: tree19
+    4300530: tree20
+    4300532: tree22
+    4300534: tree23
+    4300536: tree24
+    4300538: tree25
+    4300540: tree26
+    4300542: pasted__tree2
+    4300544: pasted__tree3
+    4300546: pasted__tree4
+    4300548: pasted__tree5
+    4300550: brocklee_car:mahjong_geo
+    4300552: brocklee_car:pCube8
+    4300554: brocklee_car:main_body_geo
+    4300556: brocklee_car:mirrors_geo
+    4300558: brocklee_car:taillights_geo
+    4300560: brocklee_car:headlights_geo
+    4300562: brocklee_car:bumper_geo
+    4300564: brocklee_car:backseat_geo
+    4300566: brocklee_car:front_seat_geo
+    4300568: brocklee_car:dashboard_geo
+    4300570: brocklee_car:steering_wheel_geo
+    4300572: brocklee_car:wheel_geo1
+    4300574: brocklee_car:wheel_geo
+    4300576: brocklee_car:wheel_geo1
+    4300578: brocklee_car:wheel_geo
+    4300580: base_sidewalk
+    4300582: park_grass
+    4300584: stoplight:trafficlight_geo
+    4300586: stoplight:stoplight_geo
+    4300588: stoplight:lights1_geo
+    4300590: stoplight:red_geo
+    4300592: stoplight:green_geo
+    4300594: stoplight:yellow_geo
+    4300596: stoplight:lights2_geo
+    4300598: stoplight:red_geo
+    4300600: stoplight:green_geo
+    4300602: stoplight:yellow_geo
+    4300604: traffic_lines
+    4300606: crosswalks
+    4300608: trafficlight_geo
+    4300610: stoplight_geo
+    4300612: lights1_geo
+    4300614: red_geo
+    4300616: green_geo
+    4300618: yellow_geo
+    4300620: lights2_geo
+    4300622: red_geo
+    4300624: green_geo
+    4300626: yellow_geo
+    4300628: stop_sign:hydrant_geo
+    4300630: stop_sign:pCylinder2
+    4300632: stop_sign:pCylinder3
+    4300634: stop_sign:pCylinder4
+    4300636: stop_sign:pCylinder5
+    4300638: stop_sign:pCylinder6
+    4300640: mailbox:mailbox_geo
+    4300642: halalexpress:cart_geo
+    4300644: halalexpress:awning_geo
+    4300646: halalexpress:break_geo
+    4300648: halalexpress:extra_sign_geo
+    4300650: halalexpress:drink_rack_geo
+    4300652: halalexpress:drinks_geo
+    4300654: halalexpress:left_smwheel_geo
+    4300656: halalexpress:right_smwheel_geo
+    4300658: halalexpress:right_wheel_geo
+    4300660: halalexpress:left_wheel_geo
+    4300662: halalexpress:exhaust1_geo
+    4300664: halalexpress:exhaust2_geo
+    4300666: trashcan:trashcan_geo
+    4300668: trashcan_geo
+    4300670: trashcan_geo1
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
