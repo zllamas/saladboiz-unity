@@ -6,8 +6,8 @@ using UnityEngine.UI;
 public class changeCameraOnClick : MonoBehaviour
 {
     Camera mainCam;
-    public Camera gotoCam;
-    public Button backbtn;
+    public Camera gotoCam; // camera to go to 
+    public Button backbtn; // back button to show when at new camera
 
     void Start()
     {
