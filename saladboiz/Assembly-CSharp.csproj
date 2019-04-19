@@ -64,6 +64,7 @@
     <Compile Include="Assets\scripts\changeCameraOnClick.cs" />
     <Compile Include="Assets\scripts\changeScene.cs" />
     <Compile Include="Assets\scripts\enterapt.cs" />
+    <Compile Include="Assets\scripts\goThroughScene.cs" />
     <Compile Include="Assets\scripts\pinBackButton.cs" />
     <Compile Include="Assets\scripts\playLoadVids.cs" />
     <Compile Include="Assets\scripts\startSaladBoiz.cs" />
@@ -276,9 +277,6 @@
     </Reference>
     <Reference Include="UnityEngine.Networking">
       <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
-    </Reference>
-    <Reference Include="Vuforia.UnityExtensions">
-      <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/VuforiaSupport/Managed/Runtime/Vuforia.UnityExtensions.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.GoogleAudioSpatializer">
       <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityGoogleAudioSpatializer/RuntimeEditor/UnityEngine.GoogleAudioSpatializer.dll</HintPath>

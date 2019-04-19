@@ -11,10 +11,25 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/scenes/opening_scene.unity
     guid: 89c7d68b07102ec448c03f3c667ad207
-  - enabled: 1
+  - enabled: 0
     path: Assets/scenes/city_scene.unity
     guid: aac012423d77bdb458307f4c55df6c5a
-  - enabled: 1
+  - enabled: 0
     path: Assets/scenes/loading_scene.unity
     guid: 1d8c41474bb9b1f4b920f85032f072ab
+  - enabled: 1
+    path: Assets/scenes/brocklee_car.unity
+    guid: f26728ce888ce8c46ba7953a22014afb
+  - enabled: 0
+    path: Assets/scenes/carrotcake_interactive_select.unity
+    guid: 04839918806895649b5493455cd7ce75
+  - enabled: 1
+    path: Assets/scenes/carrotcake_selfcare.unity
+    guid: 8d4fe350d23406948804d7f8c671749c
+  - enabled: 1
+    path: Assets/scenes/level_select.unity
+    guid: e9cf792a57ea8c84387566a742a6c156
+  - enabled: 1
+    path: Assets/scenes/infoCards.unity
+    guid: a48c9b26010f579499e862263e74c8c9
   m_configObjects: {}

@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/scenes/city_scene.unity
+- path: Assets/scenes/carrotcake_selfcare.unity
   isLoaded: 1
   isActive: 1
